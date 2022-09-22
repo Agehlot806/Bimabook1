@@ -1,0 +1,155 @@
+[{
+  "_id": {
+    "$oid": "63219394aa71b2bbb560f0e4"
+  },
+  "id": 1,
+  "app_label": "admin",
+  "model": "logentry"
+},{
+  "_id": {
+    "$oid": "63219394aa71b2bbb560f0e9"
+  },
+  "id": 2,
+  "app_label": "auth",
+  "model": "permission"
+},{
+  "_id": {
+    "$oid": "63219394aa71b2bbb560f0ea"
+  },
+  "id": 3,
+  "app_label": "auth",
+  "model": "group"
+},{
+  "_id": {
+    "$oid": "63219394aa71b2bbb560f0eb"
+  },
+  "id": 4,
+  "app_label": "auth",
+  "model": "user"
+},{
+  "_id": {
+    "$oid": "63219394aa71b2bbb560f0f8"
+  },
+  "id": 5,
+  "app_label": "contenttypes",
+  "model": "contenttype"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f0fd"
+  },
+  "id": 6,
+  "app_label": "sessions",
+  "model": "session"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f102"
+  },
+  "id": 7,
+  "app_label": "bima_policy",
+  "model": "profilemodel"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f103"
+  },
+  "id": 8,
+  "app_label": "bima_policy",
+  "model": "staffmodel"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f104"
+  },
+  "id": 9,
+  "app_label": "bima_policy",
+  "model": "bankdetail"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f105"
+  },
+  "id": 10,
+  "app_label": "bima_policy",
+  "model": "rtoconversionmodel"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f106"
+  },
+  "id": 11,
+  "app_label": "bima_policy",
+  "model": "insurancecompany"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f107"
+  },
+  "id": 12,
+  "app_label": "bima_policy",
+  "model": "agents"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f108"
+  },
+  "id": 13,
+  "app_label": "bima_policy",
+  "model": "serviceprovider"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f109"
+  },
+  "id": 14,
+  "app_label": "bima_policy",
+  "model": "brokercode"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f10a"
+  },
+  "id": 15,
+  "app_label": "bima_policy",
+  "model": "slab"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f10b"
+  },
+  "id": 16,
+  "app_label": "bima_policy",
+  "model": "payout"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f10c"
+  },
+  "id": 17,
+  "app_label": "bima_policy",
+  "model": "policy"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f10d"
+  },
+  "id": 18,
+  "app_label": "bima_policy",
+  "model": "vehiclecategory"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f10e"
+  },
+  "id": 19,
+  "app_label": "bima_policy",
+  "model": "vehiclemodelname"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f10f"
+  },
+  "id": 20,
+  "app_label": "bima_policy",
+  "model": "vehiclemakeby"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f110"
+  },
+  "id": 21,
+  "app_label": "bima_policy",
+  "model": "insuranceupload"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f111"
+  },
+  "id": 22,
+  "app_label": "bima_policy",
+  "model": "userrole"
+}]

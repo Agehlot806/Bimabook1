@@ -1,0 +1,52 @@
+[{
+  "_id": {
+    "$oid": "63219b3c9b6aadade4e94c95"
+  },
+  "id": "36789B",
+  "profile_id_id": "7CF1C59C70C8452",
+  "full_name": "aajad",
+  "mob_no": {
+    "$numberLong": "7887898678"
+  },
+  "email_id": "aajad@gmail.com",
+  "address": "bhopal",
+  "state": "mp",
+  "city": "bhopal",
+  "GSTIN": "ghju789",
+  "PAN": "kkk9876",
+  "status": "Active"
+},{
+  "_id": {
+    "$oid": "63219b779b6aadade4e94c96"
+  },
+  "id": "2941B2",
+  "profile_id_id": "7CF1C59C70C8452",
+  "full_name": "amit",
+  "mob_no": {
+    "$numberLong": "8888833333"
+  },
+  "email_id": "amit@gmail.com",
+  "address": "pune",
+  "state": "MH",
+  "city": "PUNE",
+  "GSTIN": "HHHH789",
+  "PAN": "SFG456",
+  "status": "Active"
+},{
+  "_id": {
+    "$oid": "63219bc29b6aadade4e94c97"
+  },
+  "id": "0E10F4",
+  "profile_id_id": "7CF1C59C70C8452",
+  "full_name": "Rashmi",
+  "mob_no": {
+    "$numberLong": "9999923434"
+  },
+  "email_id": "rashmi@gmail.com",
+  "address": "mumbai",
+  "state": "mh",
+  "city": "mumbai",
+  "GSTIN": "ggggo908",
+  "PAN": "sdg34g67",
+  "status": "Active"
+}]

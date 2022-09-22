@@ -1,0 +1,604 @@
+[{
+  "_id": "DESKTOP-GARLJAI-1663072600551",
+  "hostname": "DESKTOP-GARLJAI",
+  "startTime": {
+    "$date": {
+      "$numberLong": "1663072600000"
+    }
+  },
+  "startTimeLocal": "Tue Sep 13 05:36:40.551",
+  "cmdLine": {
+    "config": "C:\\Program Files\\MongoDB\\Server\\6.0\\bin\\mongod.cfg",
+    "net": {
+      "bindIp": "127.0.0.1",
+      "port": 27017
+    },
+    "service": true,
+    "storage": {
+      "dbPath": "C:\\Program Files\\MongoDB\\Server\\6.0\\data",
+      "journal": {
+        "enabled": true
+      }
+    },
+    "systemLog": {
+      "destination": "file",
+      "logAppend": true,
+      "path": "C:\\Program Files\\MongoDB\\Server\\6.0\\log\\mongod.log"
+    }
+  },
+  "pid": 7288,
+  "buildinfo": {
+    "version": "6.0.1",
+    "gitVersion": "32f0f9c88dc44a2c8073a5bd47cf779d4bfdee6b",
+    "targetMinOS": "Windows 7/Windows Server 2008 R2",
+    "modules": [],
+    "allocator": "tcmalloc",
+    "javascriptEngine": "mozjs",
+    "sysInfo": "deprecated",
+    "versionArray": [
+      6,
+      0,
+      1,
+      0
+    ],
+    "openssl": {
+      "running": "Windows SChannel"
+    },
+    "buildEnvironment": {
+      "distmod": "windows",
+      "distarch": "x86_64",
+      "cc": "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.31.31107 for x64",
+      "ccflags": "/nologo /WX /FImongo/platform/basic.h /EHsc /W3 /wd4068 /wd4244 /wd4267 /wd4290 /wd4351 /wd4355 /wd4373 /wd4800 /wd4251 /wd4291 /we4013 /we4099 /we4930 /errorReport:none /MD /O2 /Oy- /bigobj /utf-8 /permissive- /Zc:__cplusplus /Zc:sizedDealloc /volatile:iso /diagnostics:caret /std:c++17 /Gw /Gy /Zc:inline",
+      "cxx": "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.31.31107 for x64",
+      "cxxflags": "/TP",
+      "linkflags": "/nologo /DEBUG /INCREMENTAL:NO /LARGEADDRESSAWARE /OPT:REF",
+      "target_arch": "x86_64",
+      "target_os": "windows",
+      "cppdefines": "SAFEINT_USE_INTRINSICS 0 PCRE_STATIC NDEBUG BOOST_ALL_NO_LIB _UNICODE UNICODE _SILENCE_CXX17_ALLOCATOR_VOID_DEPRECATION_WARNING _SILENCE_CXX17_OLD_ALLOCATOR_MEMBERS_DEPRECATION_WARNING _SILENCE_CXX17_CODECVT_HEADER_DEPRECATION_WARNING _SILENCE_ALL_CXX20_DEPRECATION_WARNINGS _CONSOLE _CRT_SECURE_NO_WARNINGS _ENABLE_EXTENDED_ALIGNED_STORAGE _SCL_SECURE_NO_WARNINGS _WIN32_WINNT 0x0A00 BOOST_USE_WINAPI_VERSION 0x0A00 NTDDI_VERSION 0x0A000000 BOOST_THREAD_VERSION 5 BOOST_THREAD_USES_DATETIME BOOST_SYSTEM_NO_DEPRECATED BOOST_MATH_NO_LONG_DOUBLE_MATH_FUNCTIONS BOOST_ENABLE_ASSERT_DEBUG_HANDLER BOOST_LOG_NO_SHORTHAND_NAMES BOOST_LOG_USE_NATIVE_SYSLOG BOOST_LOG_WITHOUT_THREAD_ATTR ABSL_FORCE_ALIGNED_ACCESS"
+    },
+    "bits": 64,
+    "debug": false,
+    "maxBsonObjectSize": 16777216,
+    "storageEngines": [
+      "devnull",
+      "ephemeralForTest",
+      "wiredTiger"
+    ]
+  }
+},{
+  "_id": "DESKTOP-GARLJAI-1663131991907",
+  "hostname": "DESKTOP-GARLJAI",
+  "startTime": {
+    "$date": {
+      "$numberLong": "1663131991000"
+    }
+  },
+  "startTimeLocal": "Tue Sep 13 22:06:31.907",
+  "cmdLine": {
+    "config": "C:\\Program Files\\MongoDB\\Server\\6.0\\bin\\mongod.cfg",
+    "net": {
+      "bindIp": "127.0.0.1",
+      "port": 27017
+    },
+    "service": true,
+    "storage": {
+      "dbPath": "C:\\Program Files\\MongoDB\\Server\\6.0\\data",
+      "journal": {
+        "enabled": true
+      }
+    },
+    "systemLog": {
+      "destination": "file",
+      "logAppend": true,
+      "path": "C:\\Program Files\\MongoDB\\Server\\6.0\\log\\mongod.log"
+    }
+  },
+  "pid": 2384,
+  "buildinfo": {
+    "version": "6.0.1",
+    "gitVersion": "32f0f9c88dc44a2c8073a5bd47cf779d4bfdee6b",
+    "targetMinOS": "Windows 7/Windows Server 2008 R2",
+    "modules": [],
+    "allocator": "tcmalloc",
+    "javascriptEngine": "mozjs",
+    "sysInfo": "deprecated",
+    "versionArray": [
+      6,
+      0,
+      1,
+      0
+    ],
+    "openssl": {
+      "running": "Windows SChannel"
+    },
+    "buildEnvironment": {
+      "distmod": "windows",
+      "distarch": "x86_64",
+      "cc": "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.31.31107 for x64",
+      "ccflags": "/nologo /WX /FImongo/platform/basic.h /EHsc /W3 /wd4068 /wd4244 /wd4267 /wd4290 /wd4351 /wd4355 /wd4373 /wd4800 /wd4251 /wd4291 /we4013 /we4099 /we4930 /errorReport:none /MD /O2 /Oy- /bigobj /utf-8 /permissive- /Zc:__cplusplus /Zc:sizedDealloc /volatile:iso /diagnostics:caret /std:c++17 /Gw /Gy /Zc:inline",
+      "cxx": "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.31.31107 for x64",
+      "cxxflags": "/TP",
+      "linkflags": "/nologo /DEBUG /INCREMENTAL:NO /LARGEADDRESSAWARE /OPT:REF",
+      "target_arch": "x86_64",
+      "target_os": "windows",
+      "cppdefines": "SAFEINT_USE_INTRINSICS 0 PCRE_STATIC NDEBUG BOOST_ALL_NO_LIB _UNICODE UNICODE _SILENCE_CXX17_ALLOCATOR_VOID_DEPRECATION_WARNING _SILENCE_CXX17_OLD_ALLOCATOR_MEMBERS_DEPRECATION_WARNING _SILENCE_CXX17_CODECVT_HEADER_DEPRECATION_WARNING _SILENCE_ALL_CXX20_DEPRECATION_WARNINGS _CONSOLE _CRT_SECURE_NO_WARNINGS _ENABLE_EXTENDED_ALIGNED_STORAGE _SCL_SECURE_NO_WARNINGS _WIN32_WINNT 0x0A00 BOOST_USE_WINAPI_VERSION 0x0A00 NTDDI_VERSION 0x0A000000 BOOST_THREAD_VERSION 5 BOOST_THREAD_USES_DATETIME BOOST_SYSTEM_NO_DEPRECATED BOOST_MATH_NO_LONG_DOUBLE_MATH_FUNCTIONS BOOST_ENABLE_ASSERT_DEBUG_HANDLER BOOST_LOG_NO_SHORTHAND_NAMES BOOST_LOG_USE_NATIVE_SYSLOG BOOST_LOG_WITHOUT_THREAD_ATTR ABSL_FORCE_ALIGNED_ACCESS"
+    },
+    "bits": 64,
+    "debug": false,
+    "maxBsonObjectSize": 16777216,
+    "storageEngines": [
+      "devnull",
+      "ephemeralForTest",
+      "wiredTiger"
+    ]
+  }
+},{
+  "_id": "DESKTOP-GARLJAI-1663136660253",
+  "hostname": "DESKTOP-GARLJAI",
+  "startTime": {
+    "$date": {
+      "$numberLong": "1663136660000"
+    }
+  },
+  "startTimeLocal": "Tue Sep 13 23:24:20.253",
+  "cmdLine": {
+    "config": "C:\\Program Files\\MongoDB\\Server\\6.0\\bin\\mongod.cfg",
+    "net": {
+      "bindIp": "127.0.0.1",
+      "port": 27017
+    },
+    "service": true,
+    "storage": {
+      "dbPath": "C:\\Program Files\\MongoDB\\Server\\6.0\\data",
+      "journal": {
+        "enabled": true
+      }
+    },
+    "systemLog": {
+      "destination": "file",
+      "logAppend": true,
+      "path": "C:\\Program Files\\MongoDB\\Server\\6.0\\log\\mongod.log"
+    }
+  },
+  "pid": 2324,
+  "buildinfo": {
+    "version": "6.0.1",
+    "gitVersion": "32f0f9c88dc44a2c8073a5bd47cf779d4bfdee6b",
+    "targetMinOS": "Windows 7/Windows Server 2008 R2",
+    "modules": [],
+    "allocator": "tcmalloc",
+    "javascriptEngine": "mozjs",
+    "sysInfo": "deprecated",
+    "versionArray": [
+      6,
+      0,
+      1,
+      0
+    ],
+    "openssl": {
+      "running": "Windows SChannel"
+    },
+    "buildEnvironment": {
+      "distmod": "windows",
+      "distarch": "x86_64",
+      "cc": "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.31.31107 for x64",
+      "ccflags": "/nologo /WX /FImongo/platform/basic.h /EHsc /W3 /wd4068 /wd4244 /wd4267 /wd4290 /wd4351 /wd4355 /wd4373 /wd4800 /wd4251 /wd4291 /we4013 /we4099 /we4930 /errorReport:none /MD /O2 /Oy- /bigobj /utf-8 /permissive- /Zc:__cplusplus /Zc:sizedDealloc /volatile:iso /diagnostics:caret /std:c++17 /Gw /Gy /Zc:inline",
+      "cxx": "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.31.31107 for x64",
+      "cxxflags": "/TP",
+      "linkflags": "/nologo /DEBUG /INCREMENTAL:NO /LARGEADDRESSAWARE /OPT:REF",
+      "target_arch": "x86_64",
+      "target_os": "windows",
+      "cppdefines": "SAFEINT_USE_INTRINSICS 0 PCRE_STATIC NDEBUG BOOST_ALL_NO_LIB _UNICODE UNICODE _SILENCE_CXX17_ALLOCATOR_VOID_DEPRECATION_WARNING _SILENCE_CXX17_OLD_ALLOCATOR_MEMBERS_DEPRECATION_WARNING _SILENCE_CXX17_CODECVT_HEADER_DEPRECATION_WARNING _SILENCE_ALL_CXX20_DEPRECATION_WARNINGS _CONSOLE _CRT_SECURE_NO_WARNINGS _ENABLE_EXTENDED_ALIGNED_STORAGE _SCL_SECURE_NO_WARNINGS _WIN32_WINNT 0x0A00 BOOST_USE_WINAPI_VERSION 0x0A00 NTDDI_VERSION 0x0A000000 BOOST_THREAD_VERSION 5 BOOST_THREAD_USES_DATETIME BOOST_SYSTEM_NO_DEPRECATED BOOST_MATH_NO_LONG_DOUBLE_MATH_FUNCTIONS BOOST_ENABLE_ASSERT_DEBUG_HANDLER BOOST_LOG_NO_SHORTHAND_NAMES BOOST_LOG_USE_NATIVE_SYSLOG BOOST_LOG_WITHOUT_THREAD_ATTR ABSL_FORCE_ALIGNED_ACCESS"
+    },
+    "bits": 64,
+    "debug": false,
+    "maxBsonObjectSize": 16777216,
+    "storageEngines": [
+      "devnull",
+      "ephemeralForTest",
+      "wiredTiger"
+    ]
+  }
+},{
+  "_id": "DESKTOP-GARLJAI-1663162190419",
+  "hostname": "DESKTOP-GARLJAI",
+  "startTime": {
+    "$date": {
+      "$numberLong": "1663162190000"
+    }
+  },
+  "startTimeLocal": "Wed Sep 14 06:29:50.419",
+  "cmdLine": {
+    "config": "C:\\Program Files\\MongoDB\\Server\\6.0\\bin\\mongod.cfg",
+    "net": {
+      "bindIp": "127.0.0.1",
+      "port": 27017
+    },
+    "service": true,
+    "storage": {
+      "dbPath": "C:\\Program Files\\MongoDB\\Server\\6.0\\data",
+      "journal": {
+        "enabled": true
+      }
+    },
+    "systemLog": {
+      "destination": "file",
+      "logAppend": true,
+      "path": "C:\\Program Files\\MongoDB\\Server\\6.0\\log\\mongod.log"
+    }
+  },
+  "pid": 2308,
+  "buildinfo": {
+    "version": "6.0.1",
+    "gitVersion": "32f0f9c88dc44a2c8073a5bd47cf779d4bfdee6b",
+    "targetMinOS": "Windows 7/Windows Server 2008 R2",
+    "modules": [],
+    "allocator": "tcmalloc",
+    "javascriptEngine": "mozjs",
+    "sysInfo": "deprecated",
+    "versionArray": [
+      6,
+      0,
+      1,
+      0
+    ],
+    "openssl": {
+      "running": "Windows SChannel"
+    },
+    "buildEnvironment": {
+      "distmod": "windows",
+      "distarch": "x86_64",
+      "cc": "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.31.31107 for x64",
+      "ccflags": "/nologo /WX /FImongo/platform/basic.h /EHsc /W3 /wd4068 /wd4244 /wd4267 /wd4290 /wd4351 /wd4355 /wd4373 /wd4800 /wd4251 /wd4291 /we4013 /we4099 /we4930 /errorReport:none /MD /O2 /Oy- /bigobj /utf-8 /permissive- /Zc:__cplusplus /Zc:sizedDealloc /volatile:iso /diagnostics:caret /std:c++17 /Gw /Gy /Zc:inline",
+      "cxx": "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.31.31107 for x64",
+      "cxxflags": "/TP",
+      "linkflags": "/nologo /DEBUG /INCREMENTAL:NO /LARGEADDRESSAWARE /OPT:REF",
+      "target_arch": "x86_64",
+      "target_os": "windows",
+      "cppdefines": "SAFEINT_USE_INTRINSICS 0 PCRE_STATIC NDEBUG BOOST_ALL_NO_LIB _UNICODE UNICODE _SILENCE_CXX17_ALLOCATOR_VOID_DEPRECATION_WARNING _SILENCE_CXX17_OLD_ALLOCATOR_MEMBERS_DEPRECATION_WARNING _SILENCE_CXX17_CODECVT_HEADER_DEPRECATION_WARNING _SILENCE_ALL_CXX20_DEPRECATION_WARNINGS _CONSOLE _CRT_SECURE_NO_WARNINGS _ENABLE_EXTENDED_ALIGNED_STORAGE _SCL_SECURE_NO_WARNINGS _WIN32_WINNT 0x0A00 BOOST_USE_WINAPI_VERSION 0x0A00 NTDDI_VERSION 0x0A000000 BOOST_THREAD_VERSION 5 BOOST_THREAD_USES_DATETIME BOOST_SYSTEM_NO_DEPRECATED BOOST_MATH_NO_LONG_DOUBLE_MATH_FUNCTIONS BOOST_ENABLE_ASSERT_DEBUG_HANDLER BOOST_LOG_NO_SHORTHAND_NAMES BOOST_LOG_USE_NATIVE_SYSLOG BOOST_LOG_WITHOUT_THREAD_ATTR ABSL_FORCE_ALIGNED_ACCESS"
+    },
+    "bits": 64,
+    "debug": false,
+    "maxBsonObjectSize": 16777216,
+    "storageEngines": [
+      "devnull",
+      "ephemeralForTest",
+      "wiredTiger"
+    ]
+  }
+},{
+  "_id": "DESKTOP-GARLJAI-1663317467592",
+  "hostname": "DESKTOP-GARLJAI",
+  "startTime": {
+    "$date": {
+      "$numberLong": "1663317467000"
+    }
+  },
+  "startTimeLocal": "Fri Sep 16 01:37:47.592",
+  "cmdLine": {
+    "config": "C:\\Program Files\\MongoDB\\Server\\6.0\\bin\\mongod.cfg",
+    "net": {
+      "bindIp": "127.0.0.1",
+      "port": 27017
+    },
+    "service": true,
+    "storage": {
+      "dbPath": "C:\\Program Files\\MongoDB\\Server\\6.0\\data",
+      "journal": {
+        "enabled": true
+      }
+    },
+    "systemLog": {
+      "destination": "file",
+      "logAppend": true,
+      "path": "C:\\Program Files\\MongoDB\\Server\\6.0\\log\\mongod.log"
+    }
+  },
+  "pid": 2416,
+  "buildinfo": {
+    "version": "6.0.1",
+    "gitVersion": "32f0f9c88dc44a2c8073a5bd47cf779d4bfdee6b",
+    "targetMinOS": "Windows 7/Windows Server 2008 R2",
+    "modules": [],
+    "allocator": "tcmalloc",
+    "javascriptEngine": "mozjs",
+    "sysInfo": "deprecated",
+    "versionArray": [
+      6,
+      0,
+      1,
+      0
+    ],
+    "openssl": {
+      "running": "Windows SChannel"
+    },
+    "buildEnvironment": {
+      "distmod": "windows",
+      "distarch": "x86_64",
+      "cc": "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.31.31107 for x64",
+      "ccflags": "/nologo /WX /FImongo/platform/basic.h /EHsc /W3 /wd4068 /wd4244 /wd4267 /wd4290 /wd4351 /wd4355 /wd4373 /wd4800 /wd4251 /wd4291 /we4013 /we4099 /we4930 /errorReport:none /MD /O2 /Oy- /bigobj /utf-8 /permissive- /Zc:__cplusplus /Zc:sizedDealloc /volatile:iso /diagnostics:caret /std:c++17 /Gw /Gy /Zc:inline",
+      "cxx": "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.31.31107 for x64",
+      "cxxflags": "/TP",
+      "linkflags": "/nologo /DEBUG /INCREMENTAL:NO /LARGEADDRESSAWARE /OPT:REF",
+      "target_arch": "x86_64",
+      "target_os": "windows",
+      "cppdefines": "SAFEINT_USE_INTRINSICS 0 PCRE_STATIC NDEBUG BOOST_ALL_NO_LIB _UNICODE UNICODE _SILENCE_CXX17_ALLOCATOR_VOID_DEPRECATION_WARNING _SILENCE_CXX17_OLD_ALLOCATOR_MEMBERS_DEPRECATION_WARNING _SILENCE_CXX17_CODECVT_HEADER_DEPRECATION_WARNING _SILENCE_ALL_CXX20_DEPRECATION_WARNINGS _CONSOLE _CRT_SECURE_NO_WARNINGS _ENABLE_EXTENDED_ALIGNED_STORAGE _SCL_SECURE_NO_WARNINGS _WIN32_WINNT 0x0A00 BOOST_USE_WINAPI_VERSION 0x0A00 NTDDI_VERSION 0x0A000000 BOOST_THREAD_VERSION 5 BOOST_THREAD_USES_DATETIME BOOST_SYSTEM_NO_DEPRECATED BOOST_MATH_NO_LONG_DOUBLE_MATH_FUNCTIONS BOOST_ENABLE_ASSERT_DEBUG_HANDLER BOOST_LOG_NO_SHORTHAND_NAMES BOOST_LOG_USE_NATIVE_SYSLOG BOOST_LOG_WITHOUT_THREAD_ATTR ABSL_FORCE_ALIGNED_ACCESS"
+    },
+    "bits": 64,
+    "debug": false,
+    "maxBsonObjectSize": 16777216,
+    "storageEngines": [
+      "devnull",
+      "ephemeralForTest",
+      "wiredTiger"
+    ]
+  }
+},{
+  "_id": "DESKTOP-GARLJAI-1663335224291",
+  "hostname": "DESKTOP-GARLJAI",
+  "startTime": {
+    "$date": {
+      "$numberLong": "1663335224000"
+    }
+  },
+  "startTimeLocal": "Fri Sep 16 06:33:44.291",
+  "cmdLine": {
+    "config": "C:\\Program Files\\MongoDB\\Server\\6.0\\bin\\mongod.cfg",
+    "net": {
+      "bindIp": "127.0.0.1",
+      "port": 27017
+    },
+    "service": true,
+    "storage": {
+      "dbPath": "C:\\Program Files\\MongoDB\\Server\\6.0\\data",
+      "journal": {
+        "enabled": true
+      }
+    },
+    "systemLog": {
+      "destination": "file",
+      "logAppend": true,
+      "path": "C:\\Program Files\\MongoDB\\Server\\6.0\\log\\mongod.log"
+    }
+  },
+  "pid": 2372,
+  "buildinfo": {
+    "version": "6.0.1",
+    "gitVersion": "32f0f9c88dc44a2c8073a5bd47cf779d4bfdee6b",
+    "targetMinOS": "Windows 7/Windows Server 2008 R2",
+    "modules": [],
+    "allocator": "tcmalloc",
+    "javascriptEngine": "mozjs",
+    "sysInfo": "deprecated",
+    "versionArray": [
+      6,
+      0,
+      1,
+      0
+    ],
+    "openssl": {
+      "running": "Windows SChannel"
+    },
+    "buildEnvironment": {
+      "distmod": "windows",
+      "distarch": "x86_64",
+      "cc": "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.31.31107 for x64",
+      "ccflags": "/nologo /WX /FImongo/platform/basic.h /EHsc /W3 /wd4068 /wd4244 /wd4267 /wd4290 /wd4351 /wd4355 /wd4373 /wd4800 /wd4251 /wd4291 /we4013 /we4099 /we4930 /errorReport:none /MD /O2 /Oy- /bigobj /utf-8 /permissive- /Zc:__cplusplus /Zc:sizedDealloc /volatile:iso /diagnostics:caret /std:c++17 /Gw /Gy /Zc:inline",
+      "cxx": "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.31.31107 for x64",
+      "cxxflags": "/TP",
+      "linkflags": "/nologo /DEBUG /INCREMENTAL:NO /LARGEADDRESSAWARE /OPT:REF",
+      "target_arch": "x86_64",
+      "target_os": "windows",
+      "cppdefines": "SAFEINT_USE_INTRINSICS 0 PCRE_STATIC NDEBUG BOOST_ALL_NO_LIB _UNICODE UNICODE _SILENCE_CXX17_ALLOCATOR_VOID_DEPRECATION_WARNING _SILENCE_CXX17_OLD_ALLOCATOR_MEMBERS_DEPRECATION_WARNING _SILENCE_CXX17_CODECVT_HEADER_DEPRECATION_WARNING _SILENCE_ALL_CXX20_DEPRECATION_WARNINGS _CONSOLE _CRT_SECURE_NO_WARNINGS _ENABLE_EXTENDED_ALIGNED_STORAGE _SCL_SECURE_NO_WARNINGS _WIN32_WINNT 0x0A00 BOOST_USE_WINAPI_VERSION 0x0A00 NTDDI_VERSION 0x0A000000 BOOST_THREAD_VERSION 5 BOOST_THREAD_USES_DATETIME BOOST_SYSTEM_NO_DEPRECATED BOOST_MATH_NO_LONG_DOUBLE_MATH_FUNCTIONS BOOST_ENABLE_ASSERT_DEBUG_HANDLER BOOST_LOG_NO_SHORTHAND_NAMES BOOST_LOG_USE_NATIVE_SYSLOG BOOST_LOG_WITHOUT_THREAD_ATTR ABSL_FORCE_ALIGNED_ACCESS"
+    },
+    "bits": 64,
+    "debug": false,
+    "maxBsonObjectSize": 16777216,
+    "storageEngines": [
+      "devnull",
+      "ephemeralForTest",
+      "wiredTiger"
+    ]
+  }
+},{
+  "_id": "DESKTOP-GARLJAI-1663596568573",
+  "hostname": "DESKTOP-GARLJAI",
+  "startTime": {
+    "$date": {
+      "$numberLong": "1663596568000"
+    }
+  },
+  "startTimeLocal": "Mon Sep 19 07:09:28.573",
+  "cmdLine": {
+    "config": "C:\\Program Files\\MongoDB\\Server\\6.0\\bin\\mongod.cfg",
+    "net": {
+      "bindIp": "127.0.0.1",
+      "port": 27017
+    },
+    "service": true,
+    "storage": {
+      "dbPath": "C:\\Program Files\\MongoDB\\Server\\6.0\\data",
+      "journal": {
+        "enabled": true
+      }
+    },
+    "systemLog": {
+      "destination": "file",
+      "logAppend": true,
+      "path": "C:\\Program Files\\MongoDB\\Server\\6.0\\log\\mongod.log"
+    }
+  },
+  "pid": 2320,
+  "buildinfo": {
+    "version": "6.0.1",
+    "gitVersion": "32f0f9c88dc44a2c8073a5bd47cf779d4bfdee6b",
+    "targetMinOS": "Windows 7/Windows Server 2008 R2",
+    "modules": [],
+    "allocator": "tcmalloc",
+    "javascriptEngine": "mozjs",
+    "sysInfo": "deprecated",
+    "versionArray": [
+      6,
+      0,
+      1,
+      0
+    ],
+    "openssl": {
+      "running": "Windows SChannel"
+    },
+    "buildEnvironment": {
+      "distmod": "windows",
+      "distarch": "x86_64",
+      "cc": "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.31.31107 for x64",
+      "ccflags": "/nologo /WX /FImongo/platform/basic.h /EHsc /W3 /wd4068 /wd4244 /wd4267 /wd4290 /wd4351 /wd4355 /wd4373 /wd4800 /wd4251 /wd4291 /we4013 /we4099 /we4930 /errorReport:none /MD /O2 /Oy- /bigobj /utf-8 /permissive- /Zc:__cplusplus /Zc:sizedDealloc /volatile:iso /diagnostics:caret /std:c++17 /Gw /Gy /Zc:inline",
+      "cxx": "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.31.31107 for x64",
+      "cxxflags": "/TP",
+      "linkflags": "/nologo /DEBUG /INCREMENTAL:NO /LARGEADDRESSAWARE /OPT:REF",
+      "target_arch": "x86_64",
+      "target_os": "windows",
+      "cppdefines": "SAFEINT_USE_INTRINSICS 0 PCRE_STATIC NDEBUG BOOST_ALL_NO_LIB _UNICODE UNICODE _SILENCE_CXX17_ALLOCATOR_VOID_DEPRECATION_WARNING _SILENCE_CXX17_OLD_ALLOCATOR_MEMBERS_DEPRECATION_WARNING _SILENCE_CXX17_CODECVT_HEADER_DEPRECATION_WARNING _SILENCE_ALL_CXX20_DEPRECATION_WARNINGS _CONSOLE _CRT_SECURE_NO_WARNINGS _ENABLE_EXTENDED_ALIGNED_STORAGE _SCL_SECURE_NO_WARNINGS _WIN32_WINNT 0x0A00 BOOST_USE_WINAPI_VERSION 0x0A00 NTDDI_VERSION 0x0A000000 BOOST_THREAD_VERSION 5 BOOST_THREAD_USES_DATETIME BOOST_SYSTEM_NO_DEPRECATED BOOST_MATH_NO_LONG_DOUBLE_MATH_FUNCTIONS BOOST_ENABLE_ASSERT_DEBUG_HANDLER BOOST_LOG_NO_SHORTHAND_NAMES BOOST_LOG_USE_NATIVE_SYSLOG BOOST_LOG_WITHOUT_THREAD_ATTR ABSL_FORCE_ALIGNED_ACCESS"
+    },
+    "bits": 64,
+    "debug": false,
+    "maxBsonObjectSize": 16777216,
+    "storageEngines": [
+      "devnull",
+      "ephemeralForTest",
+      "wiredTiger"
+    ]
+  }
+},{
+  "_id": "DESKTOP-GARLJAI-1663741194080",
+  "hostname": "DESKTOP-GARLJAI",
+  "startTime": {
+    "$date": {
+      "$numberLong": "1663741194000"
+    }
+  },
+  "startTimeLocal": "Tue Sep 20 23:19:54.080",
+  "cmdLine": {
+    "config": "C:\\Program Files\\MongoDB\\Server\\6.0\\bin\\mongod.cfg",
+    "net": {
+      "bindIp": "127.0.0.1",
+      "port": 27017
+    },
+    "service": true,
+    "storage": {
+      "dbPath": "C:\\Program Files\\MongoDB\\Server\\6.0\\data",
+      "journal": {
+        "enabled": true
+      }
+    },
+    "systemLog": {
+      "destination": "file",
+      "logAppend": true,
+      "path": "C:\\Program Files\\MongoDB\\Server\\6.0\\log\\mongod.log"
+    }
+  },
+  "pid": 2356,
+  "buildinfo": {
+    "version": "6.0.1",
+    "gitVersion": "32f0f9c88dc44a2c8073a5bd47cf779d4bfdee6b",
+    "targetMinOS": "Windows 7/Windows Server 2008 R2",
+    "modules": [],
+    "allocator": "tcmalloc",
+    "javascriptEngine": "mozjs",
+    "sysInfo": "deprecated",
+    "versionArray": [
+      6,
+      0,
+      1,
+      0
+    ],
+    "openssl": {
+      "running": "Windows SChannel"
+    },
+    "buildEnvironment": {
+      "distmod": "windows",
+      "distarch": "x86_64",
+      "cc": "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.31.31107 for x64",
+      "ccflags": "/nologo /WX /FImongo/platform/basic.h /EHsc /W3 /wd4068 /wd4244 /wd4267 /wd4290 /wd4351 /wd4355 /wd4373 /wd4800 /wd4251 /wd4291 /we4013 /we4099 /we4930 /errorReport:none /MD /O2 /Oy- /bigobj /utf-8 /permissive- /Zc:__cplusplus /Zc:sizedDealloc /volatile:iso /diagnostics:caret /std:c++17 /Gw /Gy /Zc:inline",
+      "cxx": "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.31.31107 for x64",
+      "cxxflags": "/TP",
+      "linkflags": "/nologo /DEBUG /INCREMENTAL:NO /LARGEADDRESSAWARE /OPT:REF",
+      "target_arch": "x86_64",
+      "target_os": "windows",
+      "cppdefines": "SAFEINT_USE_INTRINSICS 0 PCRE_STATIC NDEBUG BOOST_ALL_NO_LIB _UNICODE UNICODE _SILENCE_CXX17_ALLOCATOR_VOID_DEPRECATION_WARNING _SILENCE_CXX17_OLD_ALLOCATOR_MEMBERS_DEPRECATION_WARNING _SILENCE_CXX17_CODECVT_HEADER_DEPRECATION_WARNING _SILENCE_ALL_CXX20_DEPRECATION_WARNINGS _CONSOLE _CRT_SECURE_NO_WARNINGS _ENABLE_EXTENDED_ALIGNED_STORAGE _SCL_SECURE_NO_WARNINGS _WIN32_WINNT 0x0A00 BOOST_USE_WINAPI_VERSION 0x0A00 NTDDI_VERSION 0x0A000000 BOOST_THREAD_VERSION 5 BOOST_THREAD_USES_DATETIME BOOST_SYSTEM_NO_DEPRECATED BOOST_MATH_NO_LONG_DOUBLE_MATH_FUNCTIONS BOOST_ENABLE_ASSERT_DEBUG_HANDLER BOOST_LOG_NO_SHORTHAND_NAMES BOOST_LOG_USE_NATIVE_SYSLOG BOOST_LOG_WITHOUT_THREAD_ATTR ABSL_FORCE_ALIGNED_ACCESS"
+    },
+    "bits": 64,
+    "debug": false,
+    "maxBsonObjectSize": 16777216,
+    "storageEngines": [
+      "devnull",
+      "ephemeralForTest",
+      "wiredTiger"
+    ]
+  }
+},{
+  "_id": "DESKTOP-GARLJAI-1663759040204",
+  "hostname": "DESKTOP-GARLJAI",
+  "startTime": {
+    "$date": {
+      "$numberLong": "1663759040000"
+    }
+  },
+  "startTimeLocal": "Wed Sep 21 04:17:20.204",
+  "cmdLine": {
+    "config": "C:\\Program Files\\MongoDB\\Server\\6.0\\bin\\mongod.cfg",
+    "net": {
+      "bindIp": "127.0.0.1",
+      "port": 27017
+    },
+    "service": true,
+    "storage": {
+      "dbPath": "C:\\Program Files\\MongoDB\\Server\\6.0\\data",
+      "journal": {
+        "enabled": true
+      }
+    },
+    "systemLog": {
+      "destination": "file",
+      "logAppend": true,
+      "path": "C:\\Program Files\\MongoDB\\Server\\6.0\\log\\mongod.log"
+    }
+  },
+  "pid": 2320,
+  "buildinfo": {
+    "version": "6.0.1",
+    "gitVersion": "32f0f9c88dc44a2c8073a5bd47cf779d4bfdee6b",
+    "targetMinOS": "Windows 7/Windows Server 2008 R2",
+    "modules": [],
+    "allocator": "tcmalloc",
+    "javascriptEngine": "mozjs",
+    "sysInfo": "deprecated",
+    "versionArray": [
+      6,
+      0,
+      1,
+      0
+    ],
+    "openssl": {
+      "running": "Windows SChannel"
+    },
+    "buildEnvironment": {
+      "distmod": "windows",
+      "distarch": "x86_64",
+      "cc": "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.31.31107 for x64",
+      "ccflags": "/nologo /WX /FImongo/platform/basic.h /EHsc /W3 /wd4068 /wd4244 /wd4267 /wd4290 /wd4351 /wd4355 /wd4373 /wd4800 /wd4251 /wd4291 /we4013 /we4099 /we4930 /errorReport:none /MD /O2 /Oy- /bigobj /utf-8 /permissive- /Zc:__cplusplus /Zc:sizedDealloc /volatile:iso /diagnostics:caret /std:c++17 /Gw /Gy /Zc:inline",
+      "cxx": "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.31.31107 for x64",
+      "cxxflags": "/TP",
+      "linkflags": "/nologo /DEBUG /INCREMENTAL:NO /LARGEADDRESSAWARE /OPT:REF",
+      "target_arch": "x86_64",
+      "target_os": "windows",
+      "cppdefines": "SAFEINT_USE_INTRINSICS 0 PCRE_STATIC NDEBUG BOOST_ALL_NO_LIB _UNICODE UNICODE _SILENCE_CXX17_ALLOCATOR_VOID_DEPRECATION_WARNING _SILENCE_CXX17_OLD_ALLOCATOR_MEMBERS_DEPRECATION_WARNING _SILENCE_CXX17_CODECVT_HEADER_DEPRECATION_WARNING _SILENCE_ALL_CXX20_DEPRECATION_WARNINGS _CONSOLE _CRT_SECURE_NO_WARNINGS _ENABLE_EXTENDED_ALIGNED_STORAGE _SCL_SECURE_NO_WARNINGS _WIN32_WINNT 0x0A00 BOOST_USE_WINAPI_VERSION 0x0A00 NTDDI_VERSION 0x0A000000 BOOST_THREAD_VERSION 5 BOOST_THREAD_USES_DATETIME BOOST_SYSTEM_NO_DEPRECATED BOOST_MATH_NO_LONG_DOUBLE_MATH_FUNCTIONS BOOST_ENABLE_ASSERT_DEBUG_HANDLER BOOST_LOG_NO_SHORTHAND_NAMES BOOST_LOG_USE_NATIVE_SYSLOG BOOST_LOG_WITHOUT_THREAD_ATTR ABSL_FORCE_ALIGNED_ACCESS"
+    },
+    "bits": 64,
+    "debug": false,
+    "maxBsonObjectSize": 16777216,
+    "storageEngines": [
+      "devnull",
+      "ephemeralForTest",
+      "wiredTiger"
+    ]
+  }
+}]

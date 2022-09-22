@@ -1,0 +1,1385 @@
+[{
+  "_id": {
+    "$oid": "632950742a0b393e1291526f"
+  },
+  "policyid": "3A7EB03",
+  "profile_id_id": "7CF1C59C70C8452",
+  "agent_name": "RIYA",
+  "policy_no": "police123",
+  "registration_no": "45678432545",
+  "casetype": "NEW",
+  "insurance_comp": "LIC",
+  "sp_name": "AMIT",
+  "sp_brokercode": "CODE1",
+  "issueDate": {
+    "$date": {
+      "$numberLong": "1662422400000"
+    }
+  },
+  "riskDate": {
+    "$date": {
+      "$numberLong": "1663027200000"
+    }
+  },
+  "CPA": "YES",
+  "insurance": "media/documents/sample_UHPsQ3o.pdf",
+  "previous_policy": "media/documents/sample_sUgE8do.pdf",
+  "vehicle_rc": "media/documents/sample_8Jv9gfH.pdf",
+  "customer_name": "rohan",
+  "remark": "good",
+  "OD_premium": 10,
+  "TP_premium": 20,
+  "net": 30,
+  "GST": 30,
+  "total": 60,
+  "payment_mode": "CASH",
+  "policy_type": "TP",
+  "vehicle_makeby": "HERO",
+  "vehicle_model": "ACTIVA",
+  "vehicle_category": "SCOOTY",
+  "other_info": "fggffb",
+  "vehicle_fuel_type": "CNG",
+  "manufature_year": 2020,
+  "engine_no": "45678",
+  "chasis_no": "78908"
+},{
+  "_id": {
+    "$oid": "63295a7ddb656b49b4da0600"
+  },
+  "policyid": "31758AC",
+  "profile_id_id": null,
+  "agent_name": "rohit",
+  "policy_no": "234567",
+  "registration_no": "7856789y8",
+  "casetype": "New",
+  "insurance_comp": "BAJAJ",
+  "sp_name": "amit",
+  "sp_brokercode": "code2",
+  "issueDate": {
+    "$date": {
+      "$numberLong": "1663804800000"
+    }
+  },
+  "riskDate": {
+    "$date": {
+      "$numberLong": "1663286400000"
+    }
+  },
+  "CPA": "Yes",
+  "insurance": "",
+  "previous_policy": "",
+  "vehicle_rc": "",
+  "customer_name": "ritesh",
+  "remark": "ggfg",
+  "OD_premium": 67,
+  "TP_premium": 567,
+  "net": 668,
+  "GST": 34,
+  "total": 668,
+  "payment_mode": "SAOD",
+  "policy_type": null,
+  "vehicle_makeby": "HONDA",
+  "vehicle_model": "ACTIVA",
+  "vehicle_category": "Bike",
+  "other_info": "good",
+  "vehicle_fuel_type": "Petrol",
+  "manufature_year": 2010,
+  "engine_no": "45678",
+  "chasis_no": "78908"
+},{
+  "_id": {
+    "$oid": "6329ad9b99cc6b1372730aef"
+  },
+  "policyid": "57F8DFA",
+  "profile_id_id": "7CF1C59C70C8452",
+  "agent_name": "shubham",
+  "policy_no": "234567",
+  "registration_no": "7856789y8",
+  "casetype": "Rollover",
+  "insurance_comp": "HDFC",
+  "sp_name": "aajad",
+  "sp_brokercode": "code2",
+  "issueDate": {
+    "$date": {
+      "$numberLong": "1662595200000"
+    }
+  },
+  "riskDate": {
+    "$date": {
+      "$numberLong": "1662076800000"
+    }
+  },
+  "CPA": "Yes",
+  "insurance": "",
+  "previous_policy": "",
+  "vehicle_rc": "",
+  "customer_name": "ritesh",
+  "remark": "dhrthtg",
+  "OD_premium": 67,
+  "TP_premium": 567,
+  "net": 668,
+  "GST": 34,
+  "total": 668,
+  "payment_mode": "",
+  "policy_type": null,
+  "vehicle_makeby": "HERO",
+  "vehicle_model": "SHINE",
+  "vehicle_category": "staff bus",
+  "other_info": "",
+  "vehicle_fuel_type": "Diesel",
+  "manufature_year": 2021,
+  "engine_no": "45678",
+  "chasis_no": "7890",
+  "rewards_on": "",
+  "rewards_age": null,
+  "self_rewards_on": "",
+  "self_rewards_age": null
+},{
+  "_id": {
+    "$oid": "632aad92539c36eaa0965f53"
+  },
+  "policyid": "00FEB3C",
+  "profile_id_id": "7CF1C59C70C8452",
+  "agent_name": "shubham",
+  "policy_no": "234567",
+  "registration_no": "7856789y8",
+  "casetype": "Breakin",
+  "insurance_comp": "BAJAJ",
+  "sp_name": "aajad",
+  "sp_brokercode": "code1",
+  "issueDate": {
+    "$date": {
+      "$numberLong": "1663113600000"
+    }
+  },
+  "riskDate": {
+    "$date": {
+      "$numberLong": "1663286400000"
+    }
+  },
+  "CPA": "Yes",
+  "insurance": "",
+  "previous_policy": "",
+  "vehicle_rc": "",
+  "customer_name": "gfgf",
+  "remark": "gggg",
+  "OD_premium": 67,
+  "TP_premium": 567,
+  "net": 668,
+  "GST": 34,
+  "total": 668,
+  "payment_mode": "Comp",
+  "policy_type": null,
+  "vehicle_makeby": "HERO",
+  "vehicle_model": "ACTIVA",
+  "vehicle_category": "school bus",
+  "other_info": "good",
+  "vehicle_fuel_type": "Petrol",
+  "manufature_year": 2013,
+  "engine_no": "45678",
+  "chasis_no": "78908",
+  "rewards_on": "",
+  "rewards_age": null,
+  "self_rewards_on": "",
+  "self_rewards_age": null
+},{
+  "_id": {
+    "$oid": "632aafb0539c36eaa0965f54"
+  },
+  "policyid": "997A4BA",
+  "profile_id_id": "7CF1C59C70C8452",
+  "agent_name": "shubham",
+  "policy_no": "234567",
+  "registration_no": "7856789y8",
+  "casetype": "Breakin",
+  "insurance_comp": "BAJAJ",
+  "sp_name": "aajad",
+  "sp_brokercode": "code1",
+  "issueDate": {
+    "$date": {
+      "$numberLong": "1663113600000"
+    }
+  },
+  "riskDate": {
+    "$date": {
+      "$numberLong": "1663200000000"
+    }
+  },
+  "CPA": "Yes",
+  "insurance": "",
+  "previous_policy": "",
+  "vehicle_rc": "",
+  "customer_name": "pratik",
+  "remark": "hghgn",
+  "OD_premium": 67,
+  "TP_premium": 567,
+  "net": 668,
+  "GST": 34,
+  "total": 668,
+  "payment_mode": "Comp",
+  "policy_type": null,
+  "vehicle_makeby": "HERO",
+  "vehicle_model": "PULSUR",
+  "vehicle_category": "school bus",
+  "other_info": "gghg",
+  "vehicle_fuel_type": "Petrol",
+  "manufature_year": 2013,
+  "engine_no": "45678",
+  "chasis_no": "78908",
+  "rewards_on": "",
+  "rewards_age": null,
+  "self_rewards_on": "",
+  "self_rewards_age": null
+},{
+  "_id": {
+    "$oid": "632ab07617d32473f4b5c6df"
+  },
+  "policyid": "B7D3CE5",
+  "profile_id_id": "7CF1C59C70C8452",
+  "agent_name": "shubham",
+  "policy_no": "234567",
+  "registration_no": "4567856656",
+  "casetype": "Breakin",
+  "insurance_comp": "LIC",
+  "sp_name": "amit",
+  "sp_brokercode": "code2",
+  "issueDate": {
+    "$date": {
+      "$numberLong": "1663027200000"
+    }
+  },
+  "riskDate": {
+    "$date": {
+      "$numberLong": "1663113600000"
+    }
+  },
+  "CPA": "Yes",
+  "insurance": "",
+  "previous_policy": "",
+  "vehicle_rc": "",
+  "customer_name": "gfgf",
+  "remark": "fffef",
+  "OD_premium": 67,
+  "TP_premium": 567,
+  "net": 668,
+  "GST": 34,
+  "total": 668,
+  "payment_mode": "Comp",
+  "policy_type": null,
+  "vehicle_makeby": "HONDA",
+  "vehicle_model": "ACTIVA",
+  "vehicle_category": "school bus",
+  "other_info": "good",
+  "vehicle_fuel_type": "Petrol",
+  "manufature_year": 2009,
+  "engine_no": "45678",
+  "chasis_no": "78908",
+  "rewards_on": "",
+  "rewards_age": null,
+  "self_rewards_on": "",
+  "self_rewards_age": null
+},{
+  "_id": {
+    "$oid": "632ab257fe294034421458bb"
+  },
+  "policyid": "B953F5F",
+  "profile_id_id": "7CF1C59C70C8452",
+  "agent_name": "shubham",
+  "policy_no": "234567",
+  "registration_no": "7856789y8",
+  "casetype": "Breakin",
+  "insurance_comp": "LIC",
+  "sp_name": "aajad",
+  "sp_brokercode": "code1",
+  "issueDate": {
+    "$date": {
+      "$numberLong": "1663632000000"
+    }
+  },
+  "riskDate": {
+    "$date": {
+      "$numberLong": "1687219200000"
+    }
+  },
+  "CPA": "Yes",
+  "insurance": "",
+  "previous_policy": "",
+  "vehicle_rc": "",
+  "customer_name": "pratik",
+  "remark": "hthtgh",
+  "OD_premium": 67,
+  "TP_premium": 567,
+  "net": 668,
+  "GST": 34,
+  "total": 668,
+  "payment_mode": "Comp",
+  "policy_type": null,
+  "vehicle_makeby": "HERO",
+  "vehicle_model": "SHINE",
+  "vehicle_category": "Bike",
+  "other_info": "good",
+  "vehicle_fuel_type": "Petrol",
+  "manufature_year": 2011,
+  "engine_no": "45678",
+  "chasis_no": "78908",
+  "rewards_on": "",
+  "rewards_age": null,
+  "self_rewards_on": "",
+  "self_rewards_age": null
+},{
+  "_id": {
+    "$oid": "632ab3046a2870819f556243"
+  },
+  "policyid": "E2A590C",
+  "profile_id_id": "7CF1C59C70C8452",
+  "agent_name": "shubham",
+  "policy_no": "234567",
+  "registration_no": "7856789y8",
+  "casetype": "Breakin",
+  "insurance_comp": "LIC",
+  "sp_name": "aajad",
+  "sp_brokercode": "code1",
+  "issueDate": {
+    "$date": {
+      "$numberLong": "1663632000000"
+    }
+  },
+  "riskDate": {
+    "$date": {
+      "$numberLong": "1687219200000"
+    }
+  },
+  "CPA": "Yes",
+  "insurance": "",
+  "previous_policy": "",
+  "vehicle_rc": "",
+  "customer_name": "pratik",
+  "remark": "hthtgh",
+  "OD_premium": 67,
+  "TP_premium": 567,
+  "net": 668,
+  "GST": 34,
+  "total": 668,
+  "payment_mode": "Comp",
+  "policy_type": null,
+  "vehicle_makeby": "HERO",
+  "vehicle_model": "SHINE",
+  "vehicle_category": "Bike",
+  "other_info": "good",
+  "vehicle_fuel_type": "Petrol",
+  "manufature_year": 2011,
+  "engine_no": "45678",
+  "chasis_no": "78908",
+  "rewards_on": "",
+  "rewards_age": null,
+  "self_rewards_on": "",
+  "self_rewards_age": null
+},{
+  "_id": {
+    "$oid": "632ab4c1f663c6a130061426"
+  },
+  "policyid": "CE29ABB",
+  "profile_id_id": "7CF1C59C70C8452",
+  "agent_name": "shubham",
+  "policy_no": "234567",
+  "registration_no": "7856789y8",
+  "casetype": "Breakin",
+  "insurance_comp": "LIC",
+  "sp_name": "aajad",
+  "sp_brokercode": "code1",
+  "issueDate": {
+    "$date": {
+      "$numberLong": "1663632000000"
+    }
+  },
+  "riskDate": {
+    "$date": {
+      "$numberLong": "1687219200000"
+    }
+  },
+  "CPA": "Yes",
+  "insurance": "",
+  "previous_policy": "",
+  "vehicle_rc": "",
+  "customer_name": "pratik",
+  "remark": "hthtgh",
+  "OD_premium": 67,
+  "TP_premium": 567,
+  "net": 668,
+  "GST": 34,
+  "total": 668,
+  "payment_mode": "Comp",
+  "policy_type": null,
+  "vehicle_makeby": "HERO",
+  "vehicle_model": "SHINE",
+  "vehicle_category": "Bike",
+  "other_info": "good",
+  "vehicle_fuel_type": "Petrol",
+  "manufature_year": 2011,
+  "engine_no": "45678",
+  "chasis_no": "78908",
+  "rewards_on": "",
+  "rewards_age": null,
+  "self_rewards_on": "",
+  "self_rewards_age": null
+},{
+  "_id": {
+    "$oid": "632ab4c6f663c6a130061427"
+  },
+  "policyid": "78F5F5B",
+  "profile_id_id": "7CF1C59C70C8452",
+  "agent_name": "shubham",
+  "policy_no": "234567",
+  "registration_no": "7856789y8",
+  "casetype": "Breakin",
+  "insurance_comp": "LIC",
+  "sp_name": "aajad",
+  "sp_brokercode": "code1",
+  "issueDate": {
+    "$date": {
+      "$numberLong": "1663632000000"
+    }
+  },
+  "riskDate": {
+    "$date": {
+      "$numberLong": "1687219200000"
+    }
+  },
+  "CPA": "Yes",
+  "insurance": "",
+  "previous_policy": "",
+  "vehicle_rc": "",
+  "customer_name": "pratik",
+  "remark": "hthtgh",
+  "OD_premium": 67,
+  "TP_premium": 567,
+  "net": 668,
+  "GST": 34,
+  "total": 668,
+  "payment_mode": "Comp",
+  "policy_type": null,
+  "vehicle_makeby": "HERO",
+  "vehicle_model": "SHINE",
+  "vehicle_category": "Bike",
+  "other_info": "good",
+  "vehicle_fuel_type": "Petrol",
+  "manufature_year": 2011,
+  "engine_no": "45678",
+  "chasis_no": "78908",
+  "rewards_on": "",
+  "rewards_age": null,
+  "self_rewards_on": "",
+  "self_rewards_age": null
+},{
+  "_id": {
+    "$oid": "632ab51ef663c6a130061428"
+  },
+  "policyid": "218E4E8",
+  "profile_id_id": "7CF1C59C70C8452",
+  "agent_name": "shubham",
+  "policy_no": "234567",
+  "registration_no": "7856789y8",
+  "casetype": "Breakin",
+  "insurance_comp": "BAJAJ",
+  "sp_name": "aajad",
+  "sp_brokercode": "code1",
+  "issueDate": {
+    "$date": {
+      "$numberLong": "1662595200000"
+    }
+  },
+  "riskDate": {
+    "$date": {
+      "$numberLong": "1663113600000"
+    }
+  },
+  "CPA": "Yes",
+  "insurance": "",
+  "previous_policy": "",
+  "vehicle_rc": "",
+  "customer_name": "gfgf",
+  "remark": "nnhn",
+  "OD_premium": 67,
+  "TP_premium": 567,
+  "net": 668,
+  "GST": 34,
+  "total": 668,
+  "payment_mode": "Comp",
+  "policy_type": null,
+  "vehicle_makeby": "HONDA",
+  "vehicle_model": "CBR",
+  "vehicle_category": "school bus",
+  "other_info": "hgjgh",
+  "vehicle_fuel_type": "Petrol",
+  "manufature_year": 2008,
+  "engine_no": "45678",
+  "chasis_no": "78908",
+  "rewards_on": "",
+  "rewards_age": null,
+  "self_rewards_on": "",
+  "self_rewards_age": null
+},{
+  "_id": {
+    "$oid": "632ab56b6767ed4ac59f8c7a"
+  },
+  "policyid": "4B27346",
+  "profile_id_id": "7CF1C59C70C8452",
+  "agent_name": "shubham",
+  "policy_no": "234567",
+  "registration_no": "7856789y8",
+  "casetype": "Breakin",
+  "insurance_comp": "BAJAJ",
+  "sp_name": "aajad",
+  "sp_brokercode": "code1",
+  "issueDate": {
+    "$date": {
+      "$numberLong": "1662595200000"
+    }
+  },
+  "riskDate": {
+    "$date": {
+      "$numberLong": "1663113600000"
+    }
+  },
+  "CPA": "Yes",
+  "insurance": "",
+  "previous_policy": "",
+  "vehicle_rc": "",
+  "customer_name": "gfgf",
+  "remark": "nnhn",
+  "OD_premium": 67,
+  "TP_premium": 567,
+  "net": 668,
+  "GST": 34,
+  "total": 668,
+  "payment_mode": "Comp",
+  "policy_type": null,
+  "vehicle_makeby": "HONDA",
+  "vehicle_model": "CBR",
+  "vehicle_category": "school bus",
+  "other_info": "hgjgh",
+  "vehicle_fuel_type": "Petrol",
+  "manufature_year": 2008,
+  "engine_no": "45678",
+  "chasis_no": "78908",
+  "rewards_on": "",
+  "rewards_age": null,
+  "self_rewards_on": "",
+  "self_rewards_age": null
+},{
+  "_id": {
+    "$oid": "632ab59fb07cfca9504b279d"
+  },
+  "policyid": "38D65FA",
+  "profile_id_id": "7CF1C59C70C8452",
+  "agent_name": "shubham",
+  "policy_no": "234567",
+  "registration_no": "7856789y8",
+  "casetype": "Breakin",
+  "insurance_comp": "BAJAJ",
+  "sp_name": "aajad",
+  "sp_brokercode": "code1",
+  "issueDate": {
+    "$date": {
+      "$numberLong": "1662595200000"
+    }
+  },
+  "riskDate": {
+    "$date": {
+      "$numberLong": "1663113600000"
+    }
+  },
+  "CPA": "Yes",
+  "insurance": "",
+  "previous_policy": "",
+  "vehicle_rc": "",
+  "customer_name": "gfgf",
+  "remark": "nnhn",
+  "OD_premium": 67,
+  "TP_premium": 567,
+  "net": 668,
+  "GST": 34,
+  "total": 668,
+  "payment_mode": "Comp",
+  "policy_type": null,
+  "vehicle_makeby": "HONDA",
+  "vehicle_model": "CBR",
+  "vehicle_category": "school bus",
+  "other_info": "hgjgh",
+  "vehicle_fuel_type": "Petrol",
+  "manufature_year": 2008,
+  "engine_no": "45678",
+  "chasis_no": "78908",
+  "rewards_on": "",
+  "rewards_age": null,
+  "self_rewards_on": "",
+  "self_rewards_age": null
+},{
+  "_id": {
+    "$oid": "632ab6108678b74ef0e140fe"
+  },
+  "policyid": "380C8C5",
+  "profile_id_id": "7CF1C59C70C8452",
+  "agent_name": "shubham",
+  "policy_no": "234567",
+  "registration_no": "7856789y8",
+  "casetype": "Breakin",
+  "insurance_comp": "BAJAJ",
+  "sp_name": "aajad",
+  "sp_brokercode": "code1",
+  "issueDate": {
+    "$date": {
+      "$numberLong": "1662595200000"
+    }
+  },
+  "riskDate": {
+    "$date": {
+      "$numberLong": "1663113600000"
+    }
+  },
+  "CPA": "Yes",
+  "insurance": "",
+  "previous_policy": "",
+  "vehicle_rc": "",
+  "customer_name": "gfgf",
+  "remark": "nnhn",
+  "OD_premium": 67,
+  "TP_premium": 567,
+  "net": 668,
+  "GST": 34,
+  "total": 668,
+  "payment_mode": "Comp",
+  "policy_type": null,
+  "vehicle_makeby": "HONDA",
+  "vehicle_model": "CBR",
+  "vehicle_category": "school bus",
+  "other_info": "hgjgh",
+  "vehicle_fuel_type": "Petrol",
+  "manufature_year": 2008,
+  "engine_no": "45678",
+  "chasis_no": "78908",
+  "rewards_on": "",
+  "rewards_age": null,
+  "self_rewards_on": "",
+  "self_rewards_age": null
+},{
+  "_id": {
+    "$oid": "632ab67c8678b74ef0e140ff"
+  },
+  "policyid": "2FA51FA",
+  "profile_id_id": "7CF1C59C70C8452",
+  "agent_name": "shubham",
+  "policy_no": "234567",
+  "registration_no": "7856789y8",
+  "casetype": "Breakin",
+  "insurance_comp": "BAJAJ",
+  "sp_name": "aajad",
+  "sp_brokercode": "code1",
+  "issueDate": {
+    "$date": {
+      "$numberLong": "1662595200000"
+    }
+  },
+  "riskDate": {
+    "$date": {
+      "$numberLong": "1663113600000"
+    }
+  },
+  "CPA": "Yes",
+  "insurance": "",
+  "previous_policy": "",
+  "vehicle_rc": "",
+  "customer_name": "gfgf",
+  "remark": "nnhn",
+  "OD_premium": 67,
+  "TP_premium": 567,
+  "net": 668,
+  "GST": 34,
+  "total": 668,
+  "payment_mode": "Comp",
+  "policy_type": null,
+  "vehicle_makeby": "HONDA",
+  "vehicle_model": "CBR",
+  "vehicle_category": "school bus",
+  "other_info": "hgjgh",
+  "vehicle_fuel_type": "Petrol",
+  "manufature_year": 2008,
+  "engine_no": "45678",
+  "chasis_no": "78908",
+  "rewards_on": "",
+  "rewards_age": null,
+  "self_rewards_on": "",
+  "self_rewards_age": null
+},{
+  "_id": {
+    "$oid": "632ab853ef464cff77694005"
+  },
+  "policyid": "8C8E214",
+  "profile_id_id": "7CF1C59C70C8452",
+  "agent_name": "shubham",
+  "policy_no": "2345",
+  "registration_no": "7856789y8",
+  "casetype": "Breakin",
+  "insurance_comp": "BAJAJ",
+  "sp_name": "aajad",
+  "sp_brokercode": "code2",
+  "issueDate": {
+    "$date": {
+      "$numberLong": "1663200000000"
+    }
+  },
+  "riskDate": {
+    "$date": {
+      "$numberLong": "1663286400000"
+    }
+  },
+  "CPA": "Yes",
+  "insurance": "",
+  "previous_policy": "",
+  "vehicle_rc": "",
+  "customer_name": "ritesh",
+  "remark": "fgfgf",
+  "OD_premium": 67,
+  "TP_premium": 567,
+  "net": 668,
+  "GST": 34,
+  "total": 668,
+  "payment_mode": "SAOD",
+  "policy_type": null,
+  "vehicle_makeby": "HONDA",
+  "vehicle_model": "SHINE",
+  "vehicle_category": "school bus",
+  "other_info": "good",
+  "vehicle_fuel_type": "Petrol",
+  "manufature_year": 2021,
+  "engine_no": "45678",
+  "chasis_no": "78908",
+  "rewards_on": "",
+  "rewards_age": null,
+  "self_rewards_on": "",
+  "self_rewards_age": null
+},{
+  "_id": {
+    "$oid": "632aba34321c2e801d67ef65"
+  },
+  "policyid": "482CF49",
+  "profile_id_id": "7CF1C59C70C8452",
+  "agent_name": "shubham",
+  "policy_no": "2345",
+  "registration_no": "7856789y8",
+  "casetype": "Breakin",
+  "insurance_comp": "BAJAJ",
+  "sp_name": "aajad",
+  "sp_brokercode": "code2",
+  "issueDate": {
+    "$date": {
+      "$numberLong": "1663200000000"
+    }
+  },
+  "riskDate": {
+    "$date": {
+      "$numberLong": "1663286400000"
+    }
+  },
+  "CPA": "Yes",
+  "insurance": "",
+  "previous_policy": "",
+  "vehicle_rc": "",
+  "customer_name": "ritesh",
+  "remark": "fgfgf",
+  "OD_premium": 67,
+  "TP_premium": 567,
+  "net": 668,
+  "GST": 34,
+  "total": 668,
+  "payment_mode": "SAOD",
+  "policy_type": null,
+  "vehicle_makeby": "HONDA",
+  "vehicle_model": "SHINE",
+  "vehicle_category": "school bus",
+  "other_info": "good",
+  "vehicle_fuel_type": "Petrol",
+  "manufature_year": 2021,
+  "engine_no": "45678",
+  "chasis_no": "78908",
+  "rewards_on": "",
+  "rewards_age": null,
+  "self_rewards_on": "",
+  "self_rewards_age": null
+},{
+  "_id": {
+    "$oid": "632aba39321c2e801d67ef66"
+  },
+  "policyid": "3C059BA",
+  "profile_id_id": "7CF1C59C70C8452",
+  "agent_name": "shubham",
+  "policy_no": "2345",
+  "registration_no": "7856789y8",
+  "casetype": "Breakin",
+  "insurance_comp": "BAJAJ",
+  "sp_name": "aajad",
+  "sp_brokercode": "code2",
+  "issueDate": {
+    "$date": {
+      "$numberLong": "1663200000000"
+    }
+  },
+  "riskDate": {
+    "$date": {
+      "$numberLong": "1663286400000"
+    }
+  },
+  "CPA": "Yes",
+  "insurance": "",
+  "previous_policy": "",
+  "vehicle_rc": "",
+  "customer_name": "ritesh",
+  "remark": "fgfgf",
+  "OD_premium": 67,
+  "TP_premium": 567,
+  "net": 668,
+  "GST": 34,
+  "total": 668,
+  "payment_mode": "SAOD",
+  "policy_type": null,
+  "vehicle_makeby": "HONDA",
+  "vehicle_model": "SHINE",
+  "vehicle_category": "school bus",
+  "other_info": "good",
+  "vehicle_fuel_type": "Petrol",
+  "manufature_year": 2021,
+  "engine_no": "45678",
+  "chasis_no": "78908",
+  "rewards_on": "",
+  "rewards_age": null,
+  "self_rewards_on": "",
+  "self_rewards_age": null
+},{
+  "_id": {
+    "$oid": "632aba99321c2e801d67ef67"
+  },
+  "policyid": "5766A03",
+  "profile_id_id": "7CF1C59C70C8452",
+  "agent_name": "shubham",
+  "policy_no": "234567",
+  "registration_no": "7856789y8",
+  "casetype": "Breakin",
+  "insurance_comp": "LIC",
+  "sp_name": "aajad",
+  "sp_brokercode": "code1",
+  "issueDate": {
+    "$date": {
+      "$numberLong": "1663372800000"
+    }
+  },
+  "riskDate": {
+    "$date": {
+      "$numberLong": "1663200000000"
+    }
+  },
+  "CPA": "Yes",
+  "insurance": "",
+  "previous_policy": "",
+  "vehicle_rc": "",
+  "customer_name": "pratik",
+  "remark": "ugjhbkjh",
+  "OD_premium": 67,
+  "TP_premium": 567,
+  "net": 668,
+  "GST": 34,
+  "total": 668,
+  "payment_mode": "Comp",
+  "policy_type": null,
+  "vehicle_makeby": "HONDA",
+  "vehicle_model": "SHINE",
+  "vehicle_category": "Bike",
+  "other_info": "good",
+  "vehicle_fuel_type": "Petrol",
+  "manufature_year": 2016,
+  "engine_no": "45678",
+  "chasis_no": "78908",
+  "rewards_on": "",
+  "rewards_age": null,
+  "self_rewards_on": "",
+  "self_rewards_age": null
+},{
+  "_id": {
+    "$oid": "632abaef4680c71ca9570631"
+  },
+  "policyid": "A1CEAFF",
+  "profile_id_id": "7CF1C59C70C8452",
+  "agent_name": "shubham",
+  "policy_no": "234567",
+  "registration_no": "7856789y8",
+  "casetype": "Breakin",
+  "insurance_comp": "LIC",
+  "sp_name": "aajad",
+  "sp_brokercode": "code1",
+  "issueDate": {
+    "$date": {
+      "$numberLong": "1663372800000"
+    }
+  },
+  "riskDate": {
+    "$date": {
+      "$numberLong": "1663200000000"
+    }
+  },
+  "CPA": "Yes",
+  "insurance": "",
+  "previous_policy": "",
+  "vehicle_rc": "",
+  "customer_name": "pratik",
+  "remark": "ugjhbkjh",
+  "OD_premium": 67,
+  "TP_premium": 567,
+  "net": 668,
+  "GST": 34,
+  "total": 668,
+  "payment_mode": "Comp",
+  "policy_type": null,
+  "vehicle_makeby": "HONDA",
+  "vehicle_model": "SHINE",
+  "vehicle_category": "Bike",
+  "other_info": "good",
+  "vehicle_fuel_type": "Petrol",
+  "manufature_year": 2016,
+  "engine_no": "45678",
+  "chasis_no": "78908",
+  "rewards_on": "",
+  "rewards_age": null,
+  "self_rewards_on": "",
+  "self_rewards_age": null
+},{
+  "_id": {
+    "$oid": "632acdb26163cde2799e013a"
+  },
+  "policyid": "203743A",
+  "profile_id_id": "7CF1C59C70C8452",
+  "agent_name": "riya",
+  "policy_no": "234567",
+  "registration_no": "7856789y8",
+  "casetype": "Breakin",
+  "insurance_comp": "LIC",
+  "sp_name": "aajad",
+  "sp_brokercode": "code1",
+  "issueDate": {
+    "$date": {
+      "$numberLong": "1663200000000"
+    }
+  },
+  "riskDate": {
+    "$date": {
+      "$numberLong": "1664409600000"
+    }
+  },
+  "CPA": "Yes",
+  "insurance": "",
+  "previous_policy": "",
+  "vehicle_rc": "",
+  "customer_name": "gfgf",
+  "remark": "grgrg",
+  "OD_premium": 67,
+  "TP_premium": 567,
+  "net": 668,
+  "GST": 34,
+  "total": 668,
+  "payment_mode": "Comp",
+  "policy_type": null,
+  "vehicle_makeby": "HERO",
+  "vehicle_model": "CBR",
+  "vehicle_category": "school bus",
+  "other_info": "gggr",
+  "vehicle_fuel_type": "Petrol",
+  "manufature_year": 2011,
+  "engine_no": "45678",
+  "chasis_no": "78908",
+  "rewards_on": "",
+  "rewards_age": null,
+  "self_rewards_on": "",
+  "self_rewards_age": null
+},{
+  "_id": {
+    "$oid": "632ace52ce1cd08f93927099"
+  },
+  "policyid": "3DCF259",
+  "profile_id_id": "7CF1C59C70C8452",
+  "agent_name": "riya",
+  "policy_no": "234567",
+  "registration_no": "7856789y8",
+  "casetype": "Breakin",
+  "insurance_comp": "LIC",
+  "sp_name": "aajad",
+  "sp_brokercode": "code1",
+  "issueDate": {
+    "$date": {
+      "$numberLong": "1663200000000"
+    }
+  },
+  "riskDate": {
+    "$date": {
+      "$numberLong": "1664409600000"
+    }
+  },
+  "CPA": "Yes",
+  "insurance": "",
+  "previous_policy": "",
+  "vehicle_rc": "",
+  "customer_name": "gfgf",
+  "remark": "grgrg",
+  "OD_premium": 67,
+  "TP_premium": 567,
+  "net": 668,
+  "GST": 34,
+  "total": 668,
+  "payment_mode": "Comp",
+  "policy_type": null,
+  "vehicle_makeby": "HERO",
+  "vehicle_model": "CBR",
+  "vehicle_category": "school bus",
+  "other_info": "gggr",
+  "vehicle_fuel_type": "Petrol",
+  "manufature_year": 2011,
+  "engine_no": "45678",
+  "chasis_no": "78908",
+  "rewards_on": "",
+  "rewards_age": null,
+  "self_rewards_on": "",
+  "self_rewards_age": null
+},{
+  "_id": {
+    "$oid": "632ace57ce1cd08f9392709a"
+  },
+  "policyid": "443DF70",
+  "profile_id_id": "7CF1C59C70C8452",
+  "agent_name": "riya",
+  "policy_no": "234567",
+  "registration_no": "7856789y8",
+  "casetype": "Breakin",
+  "insurance_comp": "LIC",
+  "sp_name": "aajad",
+  "sp_brokercode": "code1",
+  "issueDate": {
+    "$date": {
+      "$numberLong": "1663200000000"
+    }
+  },
+  "riskDate": {
+    "$date": {
+      "$numberLong": "1664409600000"
+    }
+  },
+  "CPA": "Yes",
+  "insurance": "",
+  "previous_policy": "",
+  "vehicle_rc": "",
+  "customer_name": "gfgf",
+  "remark": "grgrg",
+  "OD_premium": 67,
+  "TP_premium": 567,
+  "net": 668,
+  "GST": 34,
+  "total": 668,
+  "payment_mode": "Comp",
+  "policy_type": null,
+  "vehicle_makeby": "HERO",
+  "vehicle_model": "CBR",
+  "vehicle_category": "school bus",
+  "other_info": "gggr",
+  "vehicle_fuel_type": "Petrol",
+  "manufature_year": 2011,
+  "engine_no": "45678",
+  "chasis_no": "78908",
+  "rewards_on": "",
+  "rewards_age": null,
+  "self_rewards_on": "",
+  "self_rewards_age": null
+},{
+  "_id": {
+    "$oid": "632ae148dd6fef663e7c3f2f"
+  },
+  "policyid": "4D5C02C",
+  "profile_id_id": "7CF1C59C70C8452",
+  "agent_name": "riya",
+  "policy_no": "police123",
+  "registration_no": "4567856656",
+  "casetype": "Breakin",
+  "insurance_comp": "LIC",
+  "sp_name": "aajad",
+  "sp_brokercode": "code1",
+  "issueDate": {
+    "$date": {
+      "$numberLong": "1663459200000"
+    }
+  },
+  "riskDate": {
+    "$date": {
+      "$numberLong": "1663804800000"
+    }
+  },
+  "CPA": "Yes",
+  "insurance": "",
+  "previous_policy": "",
+  "vehicle_rc": "",
+  "customer_name": "pratik",
+  "remark": "hng",
+  "OD_premium": 67,
+  "TP_premium": 567,
+  "net": 668,
+  "GST": 34,
+  "total": 668,
+  "payment_mode": "Comp",
+  "policy_type": null,
+  "vehicle_makeby": "YAMHA",
+  "vehicle_model": "SHINE",
+  "vehicle_category": "staff bus",
+  "other_info": "good",
+  "vehicle_fuel_type": "Petrol",
+  "manufature_year": 2006,
+  "engine_no": "45678",
+  "chasis_no": "hhhh",
+  "rewards_on": "",
+  "rewards_age": null,
+  "self_rewards_on": "",
+  "self_rewards_age": null
+},{
+  "_id": {
+    "$oid": "632aeab863676c5035f861fe"
+  },
+  "policyid": "9AD91DC",
+  "profile_id_id": "7CF1C59C70C8452",
+  "agent_name": "shubham",
+  "policy_no": "234567",
+  "registration_no": "hr26678990",
+  "casetype": "Breakin",
+  "insurance_comp": "LIC",
+  "sp_name": "aajad",
+  "sp_brokercode": "code1",
+  "issueDate": {
+    "$date": {
+      "$numberLong": "1662595200000"
+    }
+  },
+  "riskDate": {
+    "$date": {
+      "$numberLong": "1663286400000"
+    }
+  },
+  "CPA": "Yes",
+  "insurance": "",
+  "previous_policy": "",
+  "vehicle_rc": "",
+  "customer_name": "pratikjh",
+  "remark": "dfhh",
+  "OD_premium": 67,
+  "TP_premium": 567,
+  "net": 668,
+  "GST": 34,
+  "total": 668,
+  "payment_mode": "SAOD",
+  "policy_type": null,
+  "vehicle_makeby": "HERO",
+  "vehicle_model": "SHINE",
+  "vehicle_category": "staff bus",
+  "other_info": "",
+  "vehicle_fuel_type": "Petrol",
+  "manufature_year": 2011,
+  "engine_no": "45678",
+  "chasis_no": "78908",
+  "rewards_on": "",
+  "rewards_age": null,
+  "self_rewards_on": "",
+  "self_rewards_age": null
+},{
+  "_id": {
+    "$oid": "632aee916e4d1bd867b68bf9"
+  },
+  "policyid": "D5FDEAC",
+  "profile_id_id": "7CF1C59C70C8452",
+  "agent_name": "riya",
+  "policy_no": "police123",
+  "registration_no": "hr26678990",
+  "casetype": "Breakin",
+  "insurance_comp": "LIC",
+  "sp_name": "aajad",
+  "sp_brokercode": "code1",
+  "issueDate": {
+    "$date": {
+      "$numberLong": "1662595200000"
+    }
+  },
+  "riskDate": {
+    "$date": {
+      "$numberLong": "1663286400000"
+    }
+  },
+  "CPA": "Yes",
+  "insurance": "",
+  "previous_policy": "",
+  "vehicle_rc": "",
+  "customer_name": "pratik",
+  "remark": "gngbn",
+  "OD_premium": 67,
+  "TP_premium": 567,
+  "net": 668,
+  "GST": 34,
+  "total": 668,
+  "payment_mode": "Comp",
+  "policy_type": null,
+  "vehicle_makeby": "HERO",
+  "vehicle_model": "PULSUR",
+  "vehicle_category": "school bus",
+  "other_info": "fgdgrf",
+  "vehicle_fuel_type": "Petrol",
+  "manufature_year": 2011,
+  "engine_no": "4567889",
+  "chasis_no": "7890",
+  "rewards_on": "",
+  "rewards_age": null,
+  "self_rewards_on": "",
+  "self_rewards_age": null
+},{
+  "_id": {
+    "$oid": "632af3d09d1c251209d70d17"
+  },
+  "policyid": "FAD090C",
+  "profile_id_id": "7CF1C59C70C8452",
+  "agent_name": "rohit",
+  "policy_no": "234567",
+  "registration_no": "hr26678990",
+  "casetype": "Breakin",
+  "insurance_comp": "LIC",
+  "sp_name": "aajad",
+  "sp_brokercode": "code2",
+  "issueDate": {
+    "$date": {
+      "$numberLong": "1663200000000"
+    }
+  },
+  "riskDate": {
+    "$date": {
+      "$numberLong": "1663200000000"
+    }
+  },
+  "CPA": "Yes",
+  "insurance": "",
+  "previous_policy": "",
+  "vehicle_rc": "",
+  "customer_name": "gfgf",
+  "remark": "gfsbfh",
+  "OD_premium": 24,
+  "TP_premium": 67,
+  "net": 125,
+  "GST": 34,
+  "total": 125,
+  "payment_mode": "Comp",
+  "policy_type": null,
+  "vehicle_makeby": "HERO",
+  "vehicle_model": "CBR",
+  "vehicle_category": "staff bus",
+  "other_info": "good",
+  "vehicle_fuel_type": "Petrol",
+  "manufature_year": 2014,
+  "engine_no": "45678",
+  "chasis_no": "78908",
+  "rewards_on": "",
+  "rewards_age": null,
+  "self_rewards_on": "",
+  "self_rewards_age": null
+},{
+  "_id": {
+    "$oid": "632af4da0332bf84943a21fc"
+  },
+  "policyid": "C09D33B",
+  "profile_id_id": "7CF1C59C70C8452",
+  "agent_name": "rohit",
+  "policy_no": "gh2345",
+  "registration_no": "hr26678990",
+  "casetype": "Breakin",
+  "insurance_comp": "LIC",
+  "sp_name": "amit",
+  "sp_brokercode": "code1",
+  "issueDate": {
+    "$date": {
+      "$numberLong": "1663977600000"
+    }
+  },
+  "riskDate": {
+    "$date": {
+      "$numberLong": "1663113600000"
+    }
+  },
+  "CPA": "Yes",
+  "insurance": "",
+  "previous_policy": "",
+  "vehicle_rc": "",
+  "customer_name": "pratik",
+  "remark": "fgjj",
+  "OD_premium": 67,
+  "TP_premium": 78,
+  "net": 179,
+  "GST": 34,
+  "total": 179,
+  "payment_mode": "Comp",
+  "policy_type": null,
+  "vehicle_makeby": "HERO",
+  "vehicle_model": "PLEASURE",
+  "vehicle_category": "staff bus",
+  "other_info": "fgdgrf",
+  "vehicle_fuel_type": "Petrol",
+  "manufature_year": 2009,
+  "engine_no": "4567889",
+  "chasis_no": "7890",
+  "rewards_on": "",
+  "rewards_age": null,
+  "self_rewards_on": "",
+  "self_rewards_age": null
+},{
+  "_id": {
+    "$oid": "632af5ac0332bf84943a21fd"
+  },
+  "policyid": "8102AA5",
+  "profile_id_id": "7CF1C59C70C8452",
+  "agent_name": "riya",
+  "policy_no": "789rrr45",
+  "registration_no": "hj783456788",
+  "casetype": "Rollover",
+  "insurance_comp": "IDBI",
+  "sp_name": "Rashmi",
+  "sp_brokercode": "code2",
+  "issueDate": {
+    "$date": {
+      "$numberLong": "1663804800000"
+    }
+  },
+  "riskDate": {
+    "$date": {
+      "$numberLong": "1662336000000"
+    }
+  },
+  "CPA": "Yes",
+  "insurance": "",
+  "previous_policy": "",
+  "vehicle_rc": "",
+  "customer_name": "ritesh",
+  "remark": "fdgdhh",
+  "OD_premium": 123,
+  "TP_premium": 567,
+  "net": 1479,
+  "GST": 789,
+  "total": 1479,
+  "payment_mode": "TP",
+  "policy_type": null,
+  "vehicle_makeby": "YAMHA",
+  "vehicle_model": "PULSUR",
+  "vehicle_category": "Bike",
+  "other_info": "good",
+  "vehicle_fuel_type": "Electric",
+  "manufature_year": 2011,
+  "engine_no": "45678",
+  "chasis_no": "78908",
+  "rewards_on": "",
+  "rewards_age": null,
+  "self_rewards_on": "",
+  "self_rewards_age": null
+}]

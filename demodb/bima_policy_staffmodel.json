@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "632199379b6aadade4e94c7f"
+  },
+  "login_id": "44A93F0505",
+  "profile_id_id": "7CF1C59C70C8452",
+  "staffname": "amit",
+  "password": "vvv123@",
+  "status": "Active"
+},{
+  "_id": {
+    "$oid": "6321994d9b6aadade4e94c80"
+  },
+  "login_id": "0FA7B31000",
+  "profile_id_id": "7CF1C59C70C8452",
+  "staffname": "rohan",
+  "password": "aaa123@",
+  "status": "Active"
+},{
+  "_id": {
+    "$oid": "632199639b6aadade4e94c81"
+  },
+  "login_id": "94BC0FB2D1",
+  "profile_id_id": "7CF1C59C70C8452",
+  "staffname": "dipak",
+  "password": "ddd123@",
+  "status": "Active"
+}]

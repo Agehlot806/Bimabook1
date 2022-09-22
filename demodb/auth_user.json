@@ -1,0 +1,47 @@
+[{
+  "_id": {
+    "$oid": "632195b1789690e05479ab4a"
+  },
+  "id": 1,
+  "password": "pbkdf2_sha256$320000$d7Mn3jSltKWLhb02Ygxqb7$VnWAYCMpvFZcKD6ZmTiXsNmYXMGKJjuGyP5ryub1z24=",
+  "last_login": {
+    "$date": {
+      "$numberLong": "1663145438651"
+    }
+  },
+  "is_superuser": true,
+  "username": "admin123",
+  "first_name": "",
+  "last_name": "",
+  "email": "admin@gmail.com",
+  "is_staff": true,
+  "is_active": true,
+  "date_joined": {
+    "$date": {
+      "$numberLong": "1663145393072"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63294e564c6c63045fcc4ba0"
+  },
+  "id": 2,
+  "password": "pbkdf2_sha256$320000$lARLIy9K4NC6U4X59uQVV5$nwQalhHkDrKCnA0ySe4Kpg1LQ2F7zOKyTH1BRZZNewk=",
+  "last_login": {
+    "$date": {
+      "$numberLong": "1663651452030"
+    }
+  },
+  "is_superuser": true,
+  "username": "rupali",
+  "first_name": "",
+  "last_name": "",
+  "email": "rupali@gmail.com",
+  "is_staff": true,
+  "is_active": true,
+  "date_joined": {
+    "$date": {
+      "$numberLong": "1663651414310"
+    }
+  }
+}]

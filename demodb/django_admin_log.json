@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "632196319b6aadade4e94c77"
+  },
+  "id": 1,
+  "action_time": {
+    "$date": {
+      "$numberLong": "1663145521765"
+    }
+  },
+  "user_id": 1,
+  "content_type_id": 7,
+  "object_id": "7CF1C59C70C8452",
+  "object_repr": "raj",
+  "action_flag": 1,
+  "change_message": "[{\"added\": {}}]"
+},{
+  "_id": {
+    "$oid": "632950752a0b393e12915270"
+  },
+  "id": 2,
+  "action_time": {
+    "$date": {
+      "$numberLong": "1663651957001"
+    }
+  },
+  "user_id": 2,
+  "content_type_id": 17,
+  "object_id": "3A7EB03",
+  "object_repr": "Policy object (3A7EB03)",
+  "action_flag": 1,
+  "change_message": "[{\"added\": {}}]"
+}]

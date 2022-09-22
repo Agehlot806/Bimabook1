@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "632198129b6aadade4e94c7c"
+  },
+  "login_id": "9B77EA5D33",
+  "profile_id_id": "7CF1C59C70C8452",
+  "full_name": "shubham",
+  "password": "Aaa123@",
+  "mob_no": "8778884667",
+  "email_id": "shubham@gmail.com",
+  "address": "indore",
+  "state": "mp",
+  "city": "indore",
+  "slab": "A",
+  "GSTIN": "gst123",
+  "PAN": "pan123",
+  "document": "",
+  "status": "Active"
+},{
+  "_id": {
+    "$oid": "6321987d9b6aadade4e94c7d"
+  },
+  "login_id": "1225A4DB08",
+  "profile_id_id": "7CF1C59C70C8452",
+  "full_name": "riya",
+  "password": "Riya123@",
+  "mob_no": "6789045678",
+  "email_id": "riya@gmail.com",
+  "address": "bhopal",
+  "state": "mp",
+  "city": "bhopal",
+  "slab": "B",
+  "GSTIN": "gst567",
+  "PAN": "pan3456",
+  "document": "",
+  "status": "Active"
+},{
+  "_id": {
+    "$oid": "632198f49b6aadade4e94c7e"
+  },
+  "login_id": "B49F53EA73",
+  "profile_id_id": "7CF1C59C70C8452",
+  "full_name": "rohit",
+  "password": "Rrr123@",
+  "mob_no": "7897654325",
+  "email_id": "rohit@gmail.com",
+  "address": "gwalior",
+  "state": "mp",
+  "city": "gwalior",
+  "slab": "B",
+  "GSTIN": "gst789",
+  "PAN": "gst789",
+  "document": "",
+  "status": "Active"
+}]

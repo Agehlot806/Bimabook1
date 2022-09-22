@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "632199809b6aadade4e94c82"
+  },
+  "id": "6D8DF1",
+  "profile_id_id": "7CF1C59C70C8452",
+  "category": "school bus",
+  "status": "Active"
+},{
+  "_id": {
+    "$oid": "632199889b6aadade4e94c83"
+  },
+  "id": "3C9E6C",
+  "profile_id_id": "7CF1C59C70C8452",
+  "category": "staff bus",
+  "status": "Active"
+},{
+  "_id": {
+    "$oid": "632199a79b6aadade4e94c84"
+  },
+  "id": "B60106",
+  "profile_id_id": "7CF1C59C70C8452",
+  "category": "Bike",
+  "status": "Active"
+},{
+  "_id": {
+    "$oid": "632199ca9b6aadade4e94c85"
+  },
+  "id": "46B5C3",
+  "profile_id_id": "7CF1C59C70C8452",
+  "category": "scooty",
+  "status": "Active"
+}]

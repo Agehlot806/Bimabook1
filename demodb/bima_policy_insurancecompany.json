@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "63219c569b6aadade4e94ca0"
+  },
+  "id": "B123E2",
+  "profile_id_id": "7CF1C59C70C8452",
+  "comp_name": "LIC",
+  "status": "Active"
+},{
+  "_id": {
+    "$oid": "63219c5f9b6aadade4e94ca1"
+  },
+  "id": "F7208A",
+  "profile_id_id": "7CF1C59C70C8452",
+  "comp_name": "BAJAJ",
+  "status": "Active"
+},{
+  "_id": {
+    "$oid": "63219c679b6aadade4e94ca2"
+  },
+  "id": "6E95E6",
+  "profile_id_id": "7CF1C59C70C8452",
+  "comp_name": "HDFC",
+  "status": "Active"
+},{
+  "_id": {
+    "$oid": "63219c6e9b6aadade4e94ca3"
+  },
+  "id": "EBC889",
+  "profile_id_id": "7CF1C59C70C8452",
+  "comp_name": "ICICI",
+  "status": "Active"
+},{
+  "_id": {
+    "$oid": "63219ca89b6aadade4e94ca4"
+  },
+  "id": "DC4265",
+  "profile_id_id": "7CF1C59C70C8452",
+  "comp_name": "IDBI",
+  "status": "Active"
+},{
+  "_id": {
+    "$oid": "63219cb59b6aadade4e94ca5"
+  },
+  "id": "517107",
+  "profile_id_id": "7CF1C59C70C8452",
+  "comp_name": "SBI",
+  "status": "Active"
+}]

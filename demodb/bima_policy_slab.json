@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "632197239b6aadade4e94c79"
+  },
+  "profile_id_id": "7CF1C59C70C8452",
+  "slab_name": "A",
+  "status": "Active"
+},{
+  "_id": {
+    "$oid": "6321972c9b6aadade4e94c7a"
+  },
+  "profile_id_id": "7CF1C59C70C8452",
+  "slab_name": "B",
+  "status": "Active"
+},{
+  "_id": {
+    "$oid": "632197319b6aadade4e94c7b"
+  },
+  "profile_id_id": "7CF1C59C70C8452",
+  "slab_name": "C",
+  "status": "Active"
+}]

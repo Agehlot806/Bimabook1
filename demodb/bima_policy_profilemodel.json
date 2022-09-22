@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "632196319b6aadade4e94c76"
+  },
+  "id": "7CF1C59C70C8452",
+  "full_name": "raj",
+  "email": "raj@gmail.com",
+  "mob_no": "8888899999",
+  "state": "MP",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1663145521744"
+    }
+  },
+  "city": "INDORE",
+  "password": "12345",
+  "package_GB": "3",
+  "package_MB": "600",
+  "package_duration": "3"
+}]

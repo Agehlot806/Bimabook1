@@ -1,0 +1,67 @@
+[{
+  "_id": {
+    "$oid": "63219d249b6aadade4e94ca6"
+  },
+  "profile_id_id": "7CF1C59C70C8452",
+  "payoutid": "C155311",
+  "slab_name_id": "A",
+  "payout_name": "pragati",
+  "status": "Active",
+  "vehicle_category": "school bus",
+  "policy_provider": "aajad",
+  "Insurance_company": "LIC",
+  "vehicle_make_by": "KTM",
+  "rto": "hr26",
+  "case_type": "Breakin",
+  "coverage": "Comp",
+  "fuel_type": "Petrol",
+  "cpa": "YES",
+  "rewards_on": "OD",
+  "rewards_age": 10,
+  "self_rewards_on": "OD",
+  "self_rewards_age": 5
+},{
+  "_id": {
+    "$oid": "63219d779b6aadade4e94ca7"
+  },
+  "profile_id_id": "7CF1C59C70C8452",
+  "payoutid": "D21BA8B",
+  "slab_name_id": "B",
+  "payout_name": "rupali",
+  "status": "Active",
+  "vehicle_category": "Bike",
+  "policy_provider": "amit",
+  "Insurance_company": "HDFC",
+  "vehicle_make_by": "YAMHA",
+  "rto": "gh56",
+  "case_type": "New",
+  "coverage": "SAOD",
+  "fuel_type": "CNG",
+  "cpa": "NO",
+  "rewards_on": "NET",
+  "rewards_age": 12,
+  "self_rewards_on": "NET",
+  "self_rewards_age": 10
+},{
+  "_id": {
+    "$oid": "63219dd59b6aadade4e94ca8"
+  },
+  "profile_id_id": "7CF1C59C70C8452",
+  "payoutid": "57B187D",
+  "slab_name_id": "A",
+  "payout_name": "aarati",
+  "status": "Active",
+  "vehicle_category": "Bike",
+  "policy_provider": "Rashmi",
+  "Insurance_company": "IDBI",
+  "vehicle_make_by": "BAJAJ",
+  "rto": "hj78",
+  "case_type": "Rollover",
+  "coverage": "TP",
+  "fuel_type": "Electric",
+  "cpa": "YES",
+  "rewards_on": "NET",
+  "rewards_age": 5,
+  "self_rewards_on": "OD",
+  "self_rewards_age": 7
+}]

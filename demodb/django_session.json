@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "63294e7be3b4620639f3e2a7"
+  },
+  "session_key": "2rdvnd6o8ejh4j6271ua6dx8j6q5ommf",
+  "session_data": "eyJpZCI6IjdDRjFDNTlDNzBDODQ1MiIsImZ1bGxfbmFtZSI6InJhaiJ9:1oaxQ8:JEWw6uThtpp8pHPpQnoYrc-Lek6MdgkvNkSPLl2Fobk",
+  "expire_date": {
+    "$date": {
+      "$numberLong": "1664967456301"
+    }
+  }
+}]

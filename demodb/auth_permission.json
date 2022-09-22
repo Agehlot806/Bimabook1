@@ -1,0 +1,705 @@
+[{
+  "_id": {
+    "$oid": "63219394aa71b2bbb560f0e5"
+  },
+  "id": 1,
+  "name": "Can add log entry",
+  "content_type_id": 1,
+  "codename": "add_logentry"
+},{
+  "_id": {
+    "$oid": "63219394aa71b2bbb560f0e6"
+  },
+  "id": 2,
+  "name": "Can change log entry",
+  "content_type_id": 1,
+  "codename": "change_logentry"
+},{
+  "_id": {
+    "$oid": "63219394aa71b2bbb560f0e7"
+  },
+  "id": 3,
+  "name": "Can delete log entry",
+  "content_type_id": 1,
+  "codename": "delete_logentry"
+},{
+  "_id": {
+    "$oid": "63219394aa71b2bbb560f0e8"
+  },
+  "id": 4,
+  "name": "Can view log entry",
+  "content_type_id": 1,
+  "codename": "view_logentry"
+},{
+  "_id": {
+    "$oid": "63219394aa71b2bbb560f0ec"
+  },
+  "id": 5,
+  "name": "Can add permission",
+  "content_type_id": 2,
+  "codename": "add_permission"
+},{
+  "_id": {
+    "$oid": "63219394aa71b2bbb560f0ed"
+  },
+  "id": 6,
+  "name": "Can change permission",
+  "content_type_id": 2,
+  "codename": "change_permission"
+},{
+  "_id": {
+    "$oid": "63219394aa71b2bbb560f0ee"
+  },
+  "id": 7,
+  "name": "Can delete permission",
+  "content_type_id": 2,
+  "codename": "delete_permission"
+},{
+  "_id": {
+    "$oid": "63219394aa71b2bbb560f0ef"
+  },
+  "id": 8,
+  "name": "Can view permission",
+  "content_type_id": 2,
+  "codename": "view_permission"
+},{
+  "_id": {
+    "$oid": "63219394aa71b2bbb560f0f0"
+  },
+  "id": 9,
+  "name": "Can add group",
+  "content_type_id": 3,
+  "codename": "add_group"
+},{
+  "_id": {
+    "$oid": "63219394aa71b2bbb560f0f1"
+  },
+  "id": 10,
+  "name": "Can change group",
+  "content_type_id": 3,
+  "codename": "change_group"
+},{
+  "_id": {
+    "$oid": "63219394aa71b2bbb560f0f2"
+  },
+  "id": 11,
+  "name": "Can delete group",
+  "content_type_id": 3,
+  "codename": "delete_group"
+},{
+  "_id": {
+    "$oid": "63219394aa71b2bbb560f0f3"
+  },
+  "id": 12,
+  "name": "Can view group",
+  "content_type_id": 3,
+  "codename": "view_group"
+},{
+  "_id": {
+    "$oid": "63219394aa71b2bbb560f0f4"
+  },
+  "id": 13,
+  "name": "Can add user",
+  "content_type_id": 4,
+  "codename": "add_user"
+},{
+  "_id": {
+    "$oid": "63219394aa71b2bbb560f0f5"
+  },
+  "id": 14,
+  "name": "Can change user",
+  "content_type_id": 4,
+  "codename": "change_user"
+},{
+  "_id": {
+    "$oid": "63219394aa71b2bbb560f0f6"
+  },
+  "id": 15,
+  "name": "Can delete user",
+  "content_type_id": 4,
+  "codename": "delete_user"
+},{
+  "_id": {
+    "$oid": "63219394aa71b2bbb560f0f7"
+  },
+  "id": 16,
+  "name": "Can view user",
+  "content_type_id": 4,
+  "codename": "view_user"
+},{
+  "_id": {
+    "$oid": "63219394aa71b2bbb560f0f9"
+  },
+  "id": 17,
+  "name": "Can add content type",
+  "content_type_id": 5,
+  "codename": "add_contenttype"
+},{
+  "_id": {
+    "$oid": "63219394aa71b2bbb560f0fa"
+  },
+  "id": 18,
+  "name": "Can change content type",
+  "content_type_id": 5,
+  "codename": "change_contenttype"
+},{
+  "_id": {
+    "$oid": "63219394aa71b2bbb560f0fb"
+  },
+  "id": 19,
+  "name": "Can delete content type",
+  "content_type_id": 5,
+  "codename": "delete_contenttype"
+},{
+  "_id": {
+    "$oid": "63219394aa71b2bbb560f0fc"
+  },
+  "id": 20,
+  "name": "Can view content type",
+  "content_type_id": 5,
+  "codename": "view_contenttype"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f0fe"
+  },
+  "id": 21,
+  "name": "Can add session",
+  "content_type_id": 6,
+  "codename": "add_session"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f0ff"
+  },
+  "id": 22,
+  "name": "Can change session",
+  "content_type_id": 6,
+  "codename": "change_session"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f100"
+  },
+  "id": 23,
+  "name": "Can delete session",
+  "content_type_id": 6,
+  "codename": "delete_session"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f101"
+  },
+  "id": 24,
+  "name": "Can view session",
+  "content_type_id": 6,
+  "codename": "view_session"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f112"
+  },
+  "id": 25,
+  "name": "Can add profile model",
+  "content_type_id": 7,
+  "codename": "add_profilemodel"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f113"
+  },
+  "id": 26,
+  "name": "Can change profile model",
+  "content_type_id": 7,
+  "codename": "change_profilemodel"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f114"
+  },
+  "id": 27,
+  "name": "Can delete profile model",
+  "content_type_id": 7,
+  "codename": "delete_profilemodel"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f115"
+  },
+  "id": 28,
+  "name": "Can view profile model",
+  "content_type_id": 7,
+  "codename": "view_profilemodel"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f116"
+  },
+  "id": 29,
+  "name": "Can add staff model",
+  "content_type_id": 8,
+  "codename": "add_staffmodel"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f117"
+  },
+  "id": 30,
+  "name": "Can change staff model",
+  "content_type_id": 8,
+  "codename": "change_staffmodel"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f118"
+  },
+  "id": 31,
+  "name": "Can delete staff model",
+  "content_type_id": 8,
+  "codename": "delete_staffmodel"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f119"
+  },
+  "id": 32,
+  "name": "Can view staff model",
+  "content_type_id": 8,
+  "codename": "view_staffmodel"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f11a"
+  },
+  "id": 33,
+  "name": "Can add bank detail",
+  "content_type_id": 9,
+  "codename": "add_bankdetail"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f11b"
+  },
+  "id": 34,
+  "name": "Can change bank detail",
+  "content_type_id": 9,
+  "codename": "change_bankdetail"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f11c"
+  },
+  "id": 35,
+  "name": "Can delete bank detail",
+  "content_type_id": 9,
+  "codename": "delete_bankdetail"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f11d"
+  },
+  "id": 36,
+  "name": "Can view bank detail",
+  "content_type_id": 9,
+  "codename": "view_bankdetail"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f11e"
+  },
+  "id": 37,
+  "name": "Can add rto conversion model",
+  "content_type_id": 10,
+  "codename": "add_rtoconversionmodel"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f11f"
+  },
+  "id": 38,
+  "name": "Can change rto conversion model",
+  "content_type_id": 10,
+  "codename": "change_rtoconversionmodel"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f120"
+  },
+  "id": 39,
+  "name": "Can delete rto conversion model",
+  "content_type_id": 10,
+  "codename": "delete_rtoconversionmodel"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f121"
+  },
+  "id": 40,
+  "name": "Can view rto conversion model",
+  "content_type_id": 10,
+  "codename": "view_rtoconversionmodel"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f122"
+  },
+  "id": 41,
+  "name": "Can add insurance company",
+  "content_type_id": 11,
+  "codename": "add_insurancecompany"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f123"
+  },
+  "id": 42,
+  "name": "Can change insurance company",
+  "content_type_id": 11,
+  "codename": "change_insurancecompany"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f124"
+  },
+  "id": 43,
+  "name": "Can delete insurance company",
+  "content_type_id": 11,
+  "codename": "delete_insurancecompany"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f125"
+  },
+  "id": 44,
+  "name": "Can view insurance company",
+  "content_type_id": 11,
+  "codename": "view_insurancecompany"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f126"
+  },
+  "id": 45,
+  "name": "Can add agents",
+  "content_type_id": 12,
+  "codename": "add_agents"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f127"
+  },
+  "id": 46,
+  "name": "Can change agents",
+  "content_type_id": 12,
+  "codename": "change_agents"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f128"
+  },
+  "id": 47,
+  "name": "Can delete agents",
+  "content_type_id": 12,
+  "codename": "delete_agents"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f129"
+  },
+  "id": 48,
+  "name": "Can view agents",
+  "content_type_id": 12,
+  "codename": "view_agents"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f12a"
+  },
+  "id": 49,
+  "name": "Can add service provider",
+  "content_type_id": 13,
+  "codename": "add_serviceprovider"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f12b"
+  },
+  "id": 50,
+  "name": "Can change service provider",
+  "content_type_id": 13,
+  "codename": "change_serviceprovider"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f12c"
+  },
+  "id": 51,
+  "name": "Can delete service provider",
+  "content_type_id": 13,
+  "codename": "delete_serviceprovider"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f12d"
+  },
+  "id": 52,
+  "name": "Can view service provider",
+  "content_type_id": 13,
+  "codename": "view_serviceprovider"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f12e"
+  },
+  "id": 53,
+  "name": "Can add broker code",
+  "content_type_id": 14,
+  "codename": "add_brokercode"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f12f"
+  },
+  "id": 54,
+  "name": "Can change broker code",
+  "content_type_id": 14,
+  "codename": "change_brokercode"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f130"
+  },
+  "id": 55,
+  "name": "Can delete broker code",
+  "content_type_id": 14,
+  "codename": "delete_brokercode"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f131"
+  },
+  "id": 56,
+  "name": "Can view broker code",
+  "content_type_id": 14,
+  "codename": "view_brokercode"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f132"
+  },
+  "id": 57,
+  "name": "Can add slab",
+  "content_type_id": 15,
+  "codename": "add_slab"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f133"
+  },
+  "id": 58,
+  "name": "Can change slab",
+  "content_type_id": 15,
+  "codename": "change_slab"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f134"
+  },
+  "id": 59,
+  "name": "Can delete slab",
+  "content_type_id": 15,
+  "codename": "delete_slab"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f135"
+  },
+  "id": 60,
+  "name": "Can view slab",
+  "content_type_id": 15,
+  "codename": "view_slab"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f136"
+  },
+  "id": 61,
+  "name": "Can add payout",
+  "content_type_id": 16,
+  "codename": "add_payout"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f137"
+  },
+  "id": 62,
+  "name": "Can change payout",
+  "content_type_id": 16,
+  "codename": "change_payout"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f138"
+  },
+  "id": 63,
+  "name": "Can delete payout",
+  "content_type_id": 16,
+  "codename": "delete_payout"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f139"
+  },
+  "id": 64,
+  "name": "Can view payout",
+  "content_type_id": 16,
+  "codename": "view_payout"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f13a"
+  },
+  "id": 65,
+  "name": "Can add policy",
+  "content_type_id": 17,
+  "codename": "add_policy"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f13b"
+  },
+  "id": 66,
+  "name": "Can change policy",
+  "content_type_id": 17,
+  "codename": "change_policy"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f13c"
+  },
+  "id": 67,
+  "name": "Can delete policy",
+  "content_type_id": 17,
+  "codename": "delete_policy"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f13d"
+  },
+  "id": 68,
+  "name": "Can view policy",
+  "content_type_id": 17,
+  "codename": "view_policy"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f13e"
+  },
+  "id": 69,
+  "name": "Can add vehicle category",
+  "content_type_id": 18,
+  "codename": "add_vehiclecategory"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f13f"
+  },
+  "id": 70,
+  "name": "Can change vehicle category",
+  "content_type_id": 18,
+  "codename": "change_vehiclecategory"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f140"
+  },
+  "id": 71,
+  "name": "Can delete vehicle category",
+  "content_type_id": 18,
+  "codename": "delete_vehiclecategory"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f141"
+  },
+  "id": 72,
+  "name": "Can view vehicle category",
+  "content_type_id": 18,
+  "codename": "view_vehiclecategory"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f142"
+  },
+  "id": 73,
+  "name": "Can add vehicle model name",
+  "content_type_id": 19,
+  "codename": "add_vehiclemodelname"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f143"
+  },
+  "id": 74,
+  "name": "Can change vehicle model name",
+  "content_type_id": 19,
+  "codename": "change_vehiclemodelname"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f144"
+  },
+  "id": 75,
+  "name": "Can delete vehicle model name",
+  "content_type_id": 19,
+  "codename": "delete_vehiclemodelname"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f145"
+  },
+  "id": 76,
+  "name": "Can view vehicle model name",
+  "content_type_id": 19,
+  "codename": "view_vehiclemodelname"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f146"
+  },
+  "id": 77,
+  "name": "Can add vehicle make by",
+  "content_type_id": 20,
+  "codename": "add_vehiclemakeby"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f147"
+  },
+  "id": 78,
+  "name": "Can change vehicle make by",
+  "content_type_id": 20,
+  "codename": "change_vehiclemakeby"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f148"
+  },
+  "id": 79,
+  "name": "Can delete vehicle make by",
+  "content_type_id": 20,
+  "codename": "delete_vehiclemakeby"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f149"
+  },
+  "id": 80,
+  "name": "Can view vehicle make by",
+  "content_type_id": 20,
+  "codename": "view_vehiclemakeby"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f14a"
+  },
+  "id": 81,
+  "name": "Can add insurance upload",
+  "content_type_id": 21,
+  "codename": "add_insuranceupload"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f14b"
+  },
+  "id": 82,
+  "name": "Can change insurance upload",
+  "content_type_id": 21,
+  "codename": "change_insuranceupload"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f14c"
+  },
+  "id": 83,
+  "name": "Can delete insurance upload",
+  "content_type_id": 21,
+  "codename": "delete_insuranceupload"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f14d"
+  },
+  "id": 84,
+  "name": "Can view insurance upload",
+  "content_type_id": 21,
+  "codename": "view_insuranceupload"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f14e"
+  },
+  "id": 85,
+  "name": "Can add user role",
+  "content_type_id": 22,
+  "codename": "add_userrole"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f14f"
+  },
+  "id": 86,
+  "name": "Can change user role",
+  "content_type_id": 22,
+  "codename": "change_userrole"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f150"
+  },
+  "id": 87,
+  "name": "Can delete user role",
+  "content_type_id": 22,
+  "codename": "delete_userrole"
+},{
+  "_id": {
+    "$oid": "63219395aa71b2bbb560f151"
+  },
+  "id": 88,
+  "name": "Can view user role",
+  "content_type_id": 22,
+  "codename": "view_userrole"
+}]
